@@ -501,7 +501,7 @@ a) Generalforsamlingen er foreningens høyeste myndighet i spørsmål som
 #) Generalforsamlingen kan med alminnelig flertall gi ikke-medlemmer
    møte- og talerett.
 
-#) Avstemninger på generalforsamlinger skal være hemmelige nårminst
+#) Avstemninger på generalforsamlinger skal være hemmelige når minst
    tre stemmeberettigede krever det.
 
 #) Valgbare som tillitsvalgte i Realistforeningen er alle foreningens
