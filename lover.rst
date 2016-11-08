@@ -106,11 +106,11 @@ av Økonomiutvalget.
 § 9
 ----------------
 
-Alle faste styrer og utvalg nevnt i § 7, tillitsvalgte valgt av
+Alle faste styrer og utvalg nevnt i § 7, tillitsvalgte valgt av
 Generalforsamlingen og innehavere av verv oppnevnt av Hovedstyret
-ihht. § 10 f), har ansvar for å lage og oppdatere erfaringsprotokoller
+ihht. § 10 f, har ansvar for å lage og oppdatere erfaringsprotokoller
 for opplæring av etterfølgende innehavere av vervet og funksjonærer
-tilknyttet styret ihht. § 10 f). Alle personer omfattet av første ledd
+tilknyttet styret ihht. § 10 f. Alle personer omfattet av første ledd
 har ansvar for at påtroppende vervinnehaver får den nødvendige
 opplæring for å inneha sitt verv. I denne sammenheng skal også disse
 tekster samt RFs lover gjennomgås.
@@ -123,11 +123,11 @@ a) Hovedstyret har følgende stemmeberettigede medlemmer: Formann,
    Regiformann og Økonomiutvalgets leder.
 
 #) Hovedstyrets stemmeberettigede velges på generalforsamling for ett
-   semester. Unntaket er Regiformann som velges ihht. § 18 a), og
-   leder av økonomiutvalget som velges ihht. § 15 a). Alle medlemmene
+   semester. Unntaket er Regiformann som velges ihht. § 18 a, og
+   leder av økonomiutvalget som velges ihht. § 15 a. Alle medlemmene
    velges ved særskilt valg og må ha vært med i minst et av
-   Realistforeningens styrer og utvalg nevnt i § 7 minst ett semester
-   tidligere eller ha innehatt verv nevnt i § 10 f).
+   Realistforeningens styrer og utvalg nevnt i § 7 minst ett semester
+   tidligere eller ha innehatt verv nevnt i § 10 f.
 
 #) Sekretæren er Formannens stedfortreder og fører referat fra
    Hovedstyrets møter.
@@ -249,7 +249,7 @@ a) Økonomiutvalget har seks medlemmer. Økonomiutvalgets leder velges
    medlemmer for perioder på ett semester.
 
 #) Økonomiutvalgets medlemmer kan ikke samtidig være medlemmer av noen
-   andre av de faste styrer, utvalg eller komiteer nevnt i § 7, eller
+   andre av de faste styrer, utvalg eller komiteer nevnt i § 7, eller
    medlemmer av Bjørnegildestyret. Unntaket er
 
    I) Økonomiutvalgets leder, som er medlem i Hovedstyret.
@@ -298,11 +298,11 @@ a) Desisjonsutvalget har tre medlemmer: Det velges ett medlem på den
    ordinære generalforsamlingen i hvert semester, og funksjonstiden er
    tre semestre.
 
-#) Valgbare er alle tidligere tillitsvalgte som nevnt i § 24 l).
+#) Valgbare er alle tidligere tillitsvalgte som nevnt i § 24 l.
 
 #) Desisjonsutvalgets medlemmer kan ikke samtidig være medlemmer av
-   noen andre av de faste styrer, utvalg eller komiteer nevnt i § 7,
-   eller verv nevnt i § 10 f) eller medlemmer av Bjørnegildestyret.
+   noen andre av de faste styrer, utvalg eller komiteer nevnt i § 7,
+   eller verv nevnt i § 10 f eller medlemmer av Bjørnegildestyret.
 
 #) Desisjonsutvalget har den endelige avgjørelse i tvilsspørsmål om
    tolkning av lovene. Utvalget kan også fatte vedtak og gi regler i
@@ -336,9 +336,9 @@ a) Revisjonsutvalget har tre medlemmer: Det velges ett medlem på den
    tre semestre.
 
 #) Revisjonsutvalgets medlemmer kan ikke samtidig være medlemmer av
-   noen andre av de faste styrer, utvalg eller komiteer nevnt i § 7
-   a-h), inneha et annet verv i Realistforeningen eller ha vært medlem
-   av Økonomiutvalget foregående to semestre.
+   noen andre av de faste styrer, utvalg eller komiteer nevnt i
+   § 7 a–h, inneha et annet verv i Realistforeningen eller ha vært
+   medlem av Økonomiutvalget foregående to semestre.
 
 #) Revisjonsutvalgets oppgave er å revidere Realistforeningens
    regnskaper. Minst to av revisjonsutvalgets medlemmer må delta i
@@ -445,8 +445,8 @@ a) Komiteer utnevnes og får sitt mandat av en generalforsamling eller
 ----------------------
 
 a) Generalforsamlingen er foreningens høyeste myndighet i spørsmål som
-   ikke kommer inn under § 16 d) under første punkt.  Alle medlemmer
-   av Realistforeningen har tale- og forslagsrett.
+   ikke kommer inn under § 16 d første punktum.  Alle medlemmer av
+   Realistforeningen har tale- og forslagsrett.
 
    Alle medlemmer av Realistforeningen som var innmeldt før
    innkallingen ble offentliggjort har stemmerett på
@@ -474,7 +474,7 @@ a) Generalforsamlingen er foreningens høyeste myndighet i spørsmål som
    dette ikke fungerer eller ikke etterkommer lovlige krav om at
    generalforsamling skal kalles inn, skal Desisjonsutvalget overta
    Hovedstyrets plikter når det gjelder generalforsamlinger, med
-   unntak av § 24 e).
+   unntak av § 24 e.
 
 #) Forslag om lovendringer og andre saker som ønskes tatt opp på
    generalforsamlingen må være Hovedstyret i hende og offentliggjøres
@@ -489,7 +489,7 @@ a) Generalforsamlingen er foreningens høyeste myndighet i spørsmål som
 #) Generalforsamlingen kan foreta endringer i rekkefølgen av punktene
    til det endelige forslag til dagsorden. Den kan også utelukke ett
    eller flere av de foreslåtte punkter så lenge det ikke strider mot
-   § 24 l). Den endelige dagsorden godkjennes av
+   § 24 l. Den endelige dagsorden godkjennes av
    generalforsamlingen. I forbindelse med godkjennelse av dagsorden
    skal det velges ordstyrer, referent og to medlemmer til å
    undertegne generalforsamlingens protokoll.
@@ -505,8 +505,8 @@ a) Generalforsamlingen er foreningens høyeste myndighet i spørsmål som
    tre stemmeberettigede krever det.
 
 #) Valgbare som tillitsvalgte i Realistforeningen er alle foreningens
-   medlemmer, med de innskrenkninger som følger av § 15 b), § 16 b)
-   og c) og § 17 b).
+   medlemmer, med de innskrenkninger som følger av § 15 b, § 16 b
+   og c og § 17 b.
 
 #) Valg på flere tillitsvalgte under ett avgjøres med alminnelig
    flertall. Ved valg på en enkelt tillitsvalgt kan tre
@@ -530,26 +530,26 @@ a) Generalforsamlingen er foreningens høyeste myndighet i spørsmål som
 
    #. Valg av tillitsvalgte:
 
-      a) Formann (§ 10 b))
-      #) Sekretær (§ 10 b))
-      #) Arrangementsjef (§ 10 b))
-      #) Fagsjef (§ 10 b))
-      #) Kjellermester(§ 10 b))
-      #) Blæstsjef (§ 10 b))
-      #) Kafesjef (§ 14 a)
-      #) Leder av Økonomiutvalget (§ 15 a))
-      #) To medlemmer til Økonomiutvalget (§ 15 a))
-      #) Ett medlem til Desisjonsutvalget (§ 16 a))
-      #) Ett medlem til Revisjonsutvalget (§ 17 a))
-      #) Formann i Regi (§ 18 a))
-      #) Forretningsforfører i Regi (§ 18 a))
+      a) Formann (§ 10 b)
+      #) Sekretær (§ 10 b)
+      #) Arrangementsjef (§ 10 b)
+      #) Fagsjef (§ 10 b)
+      #) Kjellermester (§ 10 b)
+      #) Blæstsjef (§ 10 b)
+      #) Kafesjef (§ 14 a)
+      #) Leder av Økonomiutvalget (§ 15 a)
+      #) To medlemmer til Økonomiutvalget (§ 15 a)
+      #) Ett medlem til Desisjonsutvalget (§ 16 a)
+      #) Ett medlem til Revisjonsutvalget (§ 17 a)
+      #) Formann i Regi (§ 18 a)
+      #) Forretningsforfører i Regi (§ 18 a)
 
 
 § 25 MISTILLIT
 --------------
 
 Foreningens medlemmer kan fremme mistillitsforslag mot tillitsvalgte
-som er valgt ihht. § 24 l) punkt 6, unntatt Desisjonsutvalget. Slike
+som er valgt ihht. § 24 l punkt 6, unntatt Desisjonsutvalget. Slike
 forslag kan bare behandles av en generalforsamling, og må være fremmet
 48 timer før generalforsamlingen. Mistillitsforslag vedtas med 2/3
 flertall. Dersom mistillitsforslaget mot et medlem av et organ blir
