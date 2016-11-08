@@ -228,7 +228,7 @@ a) Kjellerstyret ledes av Kjellermester, og har følgende andre
    Baffelmestere og Vaktgruppesjef.
 
 #) Kjellerstyret har ansvaret for den daglige drift av
-   RF-kjellern. Dette omfatter også utlån og vedlikehold av lokalene.
+   RF-kjelleren. Dette omfatter også utlån og vedlikehold av lokalene.
 
 #) Kjellerstyret har ansvar for å rapportere regnskapsrelevant
    informasjon til Økonomiutvalget og overholde vedtatte budsjetter.
@@ -501,7 +501,7 @@ a) Generalforsamlingen er foreningens høyeste myndighet i spørsmål som
 #) Generalforsamlingen kan med alminnelig flertall gi ikke-medlemmer
    møte- og talerett.
 
-#) Avstemninger på generalforsamlinger skal være hemmelige nårminst
+#) Avstemninger på generalforsamlinger skal være hemmelige når minst
    tre stemmeberettigede krever det.
 
 #) Valgbare som tillitsvalgte i Realistforeningen er alle foreningens
