@@ -7,13 +7,14 @@ lover.html: lover.rst lover.css
 	sed -i s/Contents/Innhold/ $@
 
 lover.tex: lover.rst
-	rst2latex --language=no --documentclass=scrartcl --documentoptions=a4paper,11pt,bigheading --no-section-numbering $< > $@
+	rst2latex --language=no --documentclass=scrartcl --documentoptions=a4paper,11pt --no-section-numbering $< > $@
 
 lover.pdf: lover.tex
 	pdflatex $<
 	pdflatex $<
+	pdflatex $<
 
-clean: lover.tex
+clean:
 	$(RM) *.log *.aux *.out *.toc
 	$(RM) $<
 
