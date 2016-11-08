@@ -16,7 +16,7 @@ lover.pdf: lover.tex
 
 clean:
 	$(RM) *.log *.aux *.out *.toc
-	$(RM) $<
+	$(RM) *.tex
 
 distclean: clean
-	$(RM) lover.pdf lover.html
+	$(RM) *.pdf *.html
