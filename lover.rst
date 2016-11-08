@@ -514,6 +514,9 @@ a) Generalforsamlingen er foreningens høyeste myndighet i spørsmål som
    flertall. Oppnår ingen dette ved første avstemming, avholdes bundet
    omvalg.
 
+#) Tillitsvalgte har funksjonstid fra 1. januar til 30. juni på
+   vårsemesteret og fra 1. juli til 31. desember på høstsemesteret.
+
 #) På ordinær generalforsamling behandles:
 
    1. Regnskaper, etter en redegjørelse for RFs totale økonomi.
