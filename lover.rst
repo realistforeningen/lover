@@ -1,9 +1,9 @@
 ===============================
    REALISTFORENINGENS LOVER
 ===============================
-----------------------
-Vedtatt 15. april 2015
-----------------------
+------------------------
+Vedtatt 2. november 2016
+------------------------
 
 
 .. contents::
@@ -241,7 +241,7 @@ a) Økonomiutvalget har seks medlemmer. Økonomiutvalgets leder velges
    hvert høstsemester, og funksjonstiden er to semestre. Det velges to
    ordinære medlemmer på den ordinære generalforsamling i hvert
    semester, og funksjonstiden er to semestre. I tillegg velges
-   Forretningsfører for Regi i vårsemesteret, og sitter i to
+   Forretningsfører for Regi i høstsemesteret, og sitter i to
    semestre. Økonomiansvarlig for Biørnegildet regnes som medlem i
    Økonomiutvalget i de semestrene hvor Biørnegildet har økonomisk
    aktivitet. Utover de øvrige faste medlemmer og Biørnegildets
@@ -362,7 +362,7 @@ a) Revisjonsutvalget har tre medlemmer: Det velges ett medlem på den
 ---------
 
 a) Regiformann og Forretningsfører velges på generalforsamling for ett
-   år; Regiformann om høsten, Forretningsfører om våren. Øvrige
+   år; Regiformann om våren, Forretningsfører om høsten. Øvrige
    medlemmer godkjennes av Hovedstyret etter innstilling fra
    Regiformann.
 
