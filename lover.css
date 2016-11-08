@@ -1,0 +1,52 @@
+h1 {
+    margin-top: 2em;
+    font-size: 1.5em;
+}
+
+h2 {
+    font-size: 1.3em;
+}
+
+.title {
+    text-align: center;
+    font-size: 2em;
+}
+
+.subtitle {
+    text-align: center;
+    font-size: 16px;
+}
+
+ol.loweralpha, ol.upperroman, ol.arabic {
+    counter-reset: list;
+}
+
+ol > li {
+    list-style: none;
+    position: relative;
+}
+
+ol.loweralpha > li:before {
+    counter-increment: list;
+    content: counter(list, lower-alpha) ") ";
+    position: absolute;
+    left: -1.8em;
+}
+
+ol.upperroman > li:before {
+    counter-increment: list;
+    content: counter(list, upper-roman) ") ";
+    position: absolute;
+    left: -2em;
+}
+
+ol.arabic > li:before {
+    counter-increment: list;
+    content: counter(list, decimal) ". ";
+    position: absolute;
+    left: -1.4em;
+}
+
+li:before {
+    font-weight: bold;
+}
