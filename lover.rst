@@ -24,7 +24,7 @@ matematisk-naturvitenskapelige fakultet, Universitetet i Oslo.
 ----------------
 
 Realistforeningens formål er å samle foreningens medlemmer til å
-drøfte spørsmål av almen og faglig art, å øke kameratskapet mellom
+drøfte spørsmål av almenn og faglig art, å øke kameratskapet mellom
 studentene og styrke miljøet ved fakultetet ved selskapelige samvær,
 ekskursjoner og andre tiltak.
 
@@ -42,11 +42,11 @@ overskudd går inn i egenkapitalen til foreningen.
 
 Realistforeningen har tre kategorier medlemmer:
 
-a) Semesterbetalende medlemmer
-#) Livsvarige medlemmer
-#) Æresmedlemmer
+a) semesterbetalende medlemmer
+#) livsvarige medlemmer
+#) æresmedlemmer
 
-Medlemskontingent for livsvarige medlemmer er 10 x ordinær
+Medlemskontingent for livsvarige medlemmer er 10 ganger ordinær
 semesterkontingent. Æresmedlemmer utnevnes på generalforsamling med
 3/4 flertall. Alle kategorier medlemmer har samme rettigheter.
 
@@ -108,9 +108,9 @@ av Økonomiutvalget.
 
 Alle faste styrer og utvalg nevnt i § 7, tillitsvalgte valgt av
 Generalforsamlingen og innehavere av verv oppnevnt av Hovedstyret
-ihht. § 10 f, har ansvar for å lage og oppdatere erfaringsprotokoller
+iht. § 10 f, har ansvar for å lage og oppdatere erfaringsprotokoller
 for opplæring av etterfølgende innehavere av vervet og funksjonærer
-tilknyttet styret ihht. § 10 f. Alle personer omfattet av første ledd
+tilknyttet styret iht. § 10 f. Alle personer omfattet av første ledd
 har ansvar for at påtroppende vervinnehaver får den nødvendige
 opplæring for å inneha sitt verv. I denne sammenheng skal også disse
 tekster samt RFs lover gjennomgås.
@@ -118,21 +118,21 @@ tekster samt RFs lover gjennomgås.
 § 10 HOVEDSTYRET
 ----------------
 
-a) Hovedstyret har følgende stemmeberettigede medlemmer: Formann,
-   Sekretær, Arrangementssjef, Blæstsjef, Fagsjef, Kjellermester,
-   Regiformann og Økonomiutvalgets leder.
+a) Hovedstyret har følgende stemmeberettigede medlemmer: formann,
+   sekretær, arrangementssjef, blæstsjef, fagsjef, kjellermester,
+   regiformann og Økonomiutvalgets leder.
 
 #) Hovedstyrets stemmeberettigede velges på generalforsamling for ett
-   semester. Unntaket er Regiformann som velges ihht. § 18 a, og
-   leder av økonomiutvalget som velges ihht. § 15 a. Alle medlemmene
-   velges ved særskilt valg og må ha vært med i minst et av
+   semester. Unntaket er regiformann som velges iht. § 18 a, og
+   leder av Økonomiutvalget som velges iht. § 15 a. Alle medlemmene
+   velges ved særskilt valg og må ha vært med i minst ett av
    Realistforeningens styrer og utvalg nevnt i § 7 minst ett semester
-   tidligere eller ha innehatt verv nevnt i § 10 f.
+   tidligere eller innehatt verv nevnt i § 10 f.
 
-#) Sekretæren er Formannens stedfortreder og fører referat fra
+#) Sekretæren er formannens stedfortreder og fører referat fra
    Hovedstyrets møter.
 
-#) Formann og ØU-leder tegner sammen for foreningen.
+#) Formann og Økonomiutvalgets leder tegner sammen for foreningen.
 
 #) Hovedstyrets oppgave er å koordinere langsiktig virksomhet,
    godkjenne program, vedta budsjetter, utarbeide forslag til
@@ -140,11 +140,12 @@ a) Hovedstyret har følgende stemmeberettigede medlemmer: Formann,
    Realistforeningen utad.
 
 #) Hovedstyret oppnevner alle verv. Som verv er å regne:
-   Skjenkemester, Utlånsansvarlig, Vaktmester, Popvitsjef,
-   Bedriftskontakt, Donaldsjef, Vaktgruppesjef, Arrangementsmester,
-   Internansvarlig, vevmester, Panikkansvarlig, redaktør for
-   Husbjørnen, Baffelmester og kordirigent. Hovedstyret kan oppnevne
-   andre verv etter behov. Hovedstyret kan avsette nevnte verv.
+   skjenkemester, utlånsansvarlig, vaktmester, populærvitenskapelig
+   ansvarlig, bedriftskontakt, donaldsjef, vaktgruppesjef,
+   arrangementsmester, internansvarlig, vevmester, panikkansvarlig,
+   husbjørnredaktør, baffelmester og kordirigent. Hovedstyret kan
+   oppnevne andre verv etter behov. Hovedstyret kan avsette nevnte
+   verv.
 
 #) Hovedstyret kan bestemme at andre styrer, utvalg og komiteer selv
    kan knytte til seg inntil et bestemt antall funksjonærer for å
@@ -160,7 +161,7 @@ a) Hovedstyret har følgende stemmeberettigede medlemmer: Formann,
    godkjenning av innkalling, og etter det kan bare et enstemmig
    Hovedstyre endre dagsorden.
 
-#) Hovedstyret er vedtaksdyktig når der er korrekt innkalt til møtet
+#) Hovedstyret er vedtaksdyktig når det er korrekt innkalt til møtet
    og minst 5 av representantene med stemmerett er til stede og saken
    vedtas med alminnelig flertall. Ved stemmelikhet teller formannens
    stemme dobbelt. Det skal føres møteprotokoll fra hvert av møtene
@@ -176,9 +177,9 @@ a) Hovedstyret har følgende stemmeberettigede medlemmer: Formann,
 § 11 ARRANGEMENTSSTYRET
 -----------------------
 
-a) Arrangementsstyret ledes av Arrangementssjef, og har følgende andre
-   medlemmer: Regiformann, Blæstsjef, Vaktgruppesjef,
-   Arrangementsmestere og Kjellermester.
+a) Arrangementsstyret ledes av arrangementssjef, og har følgende andre
+   medlemmer: regiformann, blæstsjef, vaktgruppesjef,
+   arrangementsmestere og kjellermester.
 
 #) Arrangementsstyret er ansvarlig for planlegging, koordinering og
    gjennomføring av arrangement av sosial karakter.
@@ -193,8 +194,8 @@ a) Arrangementsstyret ledes av Arrangementssjef, og har følgende andre
 § 12 FAGSTYRET
 --------------
 
-a) Fagstyret ledes av Fagsjef, og har følgende andre medlemmer:
-   Populærvitenskapelig ansvarlig, Panikkansvarlig og Bedriftskontakt.
+a) Fagstyret ledes av fagsjef, og har følgende andre medlemmer:
+   populærvitenskapelig ansvarlig, panikkansvarlig og bedriftskontakt.
 
 #) Fagstyret har ansvar for foreningens faglige profil og kontakt med
    næringslivet.
@@ -209,8 +210,8 @@ a) Fagstyret ledes av Fagsjef, og har følgende andre medlemmer:
 § 13 BLÆSTGRUPPA
 ----------------
 
-a) Blæststyret ledes av Blæstsjef, og har følgende andre medlemmer:
-   Vevmester og Husbjørnenredaktør.
+a) Blæststyret ledes av blæstsjef, og har følgende andre medlemmer:
+   vevmester og husbjørnredaktør.
 
 #) Blæststyret har ansvar for formidling av RFs profil utad,
    markedsføring av foreningens eksterne arrangementer og bidra til
@@ -223,9 +224,9 @@ a) Blæststyret ledes av Blæstsjef, og har følgende andre medlemmer:
 § 14 KJELLERSTYRET
 ------------------
 
-a) Kjellerstyret ledes av Kjellermester, og har følgende andre
-   medlemmer: Kafesjef, Utlånsansvarlig, Skjenkemestere, Vaktmester,
-   Baffelmestere og Vaktgruppesjef.
+a) Kjellerstyret ledes av kjellermester, og har følgende andre
+   medlemmer: kafesjef, utlånsansvarlig, skjenkemestere, vaktmester,
+   baffelmestere og vaktgruppesjef.
 
 #) Kjellerstyret har ansvaret for den daglige drift av
    RF-kjelleren. Dette omfatter også utlån og vedlikehold av lokalene.
@@ -241,20 +242,20 @@ a) Økonomiutvalget har seks medlemmer. Økonomiutvalgets leder velges
    hvert høstsemester, og funksjonstiden er to semestre. Det velges to
    ordinære medlemmer på den ordinære generalforsamling i hvert
    semester, og funksjonstiden er to semestre. I tillegg velges
-   Forretningsfører for Regi i høstsemesteret, og sitter i to
+   forretningsfører for Regi i høstsemesteret, og sitter i to
    semestre. Økonomiansvarlig for Biørnegildet regnes som medlem i
    Økonomiutvalget i de semestrene hvor Biørnegildet har økonomisk
    aktivitet. Utover de øvrige faste medlemmer og Biørnegildets
-   Økonomiansvarlig, kan Generalforsamlingen stemme inn ytterlige 2
+   økonomiansvarlig, kan Generalforsamlingen stemme inn ytterlige to
    medlemmer for perioder på ett semester.
 
 #) Økonomiutvalgets medlemmer kan ikke samtidig være medlemmer av noen
    andre av de faste styrer, utvalg eller komiteer nevnt i § 7, eller
-   medlemmer av Bjørnegildestyret. Unntaket er
+   medlemmer av Bjørnegildestyret. Unntakene er
 
-   I) Økonomiutvalgets leder, som er medlem i Hovedstyret.
-   #) Forretningsfører for Regi, som er medlem i Regi.
-   #) Økonomiansvarlig for Biørnegildet, som er medlem av Biørnegildestyret.
+   I) Økonomiutvalgets leder, som er medlem i Hovedstyret,
+   #) forretningsfører for Regi, som er medlem i Regi, og
+   #) økonomiansvarlig for Biørnegildet, som er medlem av Biørnegildestyret.
 
 #) Økonomiutvalget har ansvaret for Realistforeningens regnskap og for
    å lære opp alle styrer, utvalg og komiteer i
@@ -361,10 +362,10 @@ a) Revisjonsutvalget har tre medlemmer: Det velges ett medlem på den
 § 18 REGI
 ---------
 
-a) Regiformann og Forretningsfører velges på generalforsamling for ett
-   år; Regiformann om våren, Forretningsfører om høsten. Øvrige
+a) Regiformann og forretningsfører velges på generalforsamling for ett
+   år; regiformann om våren, forretningsfører om høsten. Øvrige
    medlemmer godkjennes av Hovedstyret etter innstilling fra
-   Regiformann.
+   regiformann.
 
 #) Regis oppgave er å stå for drift og forvaltning av
    Realistforeningens tekniske utstyr.
@@ -376,8 +377,8 @@ a) Regiformann og Forretningsfører velges på generalforsamling for ett
 § 19 VAKTGRUPPA
 ---------------
 
-a) Vaktgruppa ledes av Vaktgruppesjef som utpekes av Hovedstyret etter
-   innstilling av Vaktgruppa.
+a) Vaktgruppa ledes av vaktgruppesjef som utpekes av Hovedstyret etter
+   innstilling fra Vaktgruppa.
 
 #) Vaktgruppas oppgave er i samråd med Arrangementstyret og
    Kjellerstyret å stå for vakthold under Realistforeningens
@@ -389,8 +390,8 @@ a) Vaktgruppa ledes av Vaktgruppesjef som utpekes av Hovedstyret etter
 § 20 HUSBJØRNREDAKSJONEN
 ------------------------
 
-a) Husbjørnredaksjonen ledes av Husbjørnredaktør, og kan knytte til
-   seg så mange medlemmer som Husbjørnredaktør finner ønskelig.
+a) Husbjørnredaksjonen ledes av husbjørnredaktør, og kan knytte til
+   seg så mange medlemmer som husbjørnredaktør finner ønskelig.
 
 #) Husbjørnredaksjonen har ansvar for å utgi avisen Husbjørnen, Ursus
    Domesticus.
@@ -402,8 +403,8 @@ a) Husbjørnredaksjonen ledes av Husbjørnredaktør, og kan knytte til
 § 21 KORGRUPPA
 --------------
 
-a) Korgruppa ledes av Kordirigent, og kan knytte til seg så mange
-   medlemmer som Kordirigenten finner ønskelig.
+a) Korgruppa ledes av kordirigent, og kan knytte til seg så mange
+   medlemmer som kordirigenten finner ønskelig.
 
 #) Korgruppa har ansvaret for å organisere korøvelser, drive
    sangopplæring for foreningens medlemmer, og opptre med korsang ved
@@ -421,7 +422,7 @@ a) Bjørnegildet avholdes vårsemesteret hvert tredje år.
 #) Bjørnegildet ledes av et styre, hvis medlemmer velges av
    generalforsamlingen seneste tre semestere før Bjørnegildet.
 
-#) Bjørnegildestyret består av Gildesjef, Sekretær, Økonomiansvarlig
+#) Bjørnegildestyret består av gildesjef, sekretær, økonomiansvarlig
    og så mange medlemmer som generalforsamlingen finner nødvendig.
 
 #) Bjørnegildestyret har ansvaret for Bjørnegildets regnskap og
@@ -516,7 +517,7 @@ a) Generalforsamlingen er foreningens høyeste myndighet i spørsmål som
 
 #) På ordinær generalforsamling behandles:
 
-   1. Regnskaper, etter en redegjørelse for RFs totale økonomi.
+   1. Regnskaper, etter en redegjørelse for RFs totale økonomi
 
    #. Budsjettrammer. På høstens generalforsamling vedtas
       budsjettrammer for neste år. På vårens generalforsamling kan
@@ -526,7 +527,7 @@ a) Generalforsamlingen er foreningens høyeste myndighet i spørsmål som
 
    #. Semesterberetninger
 
-   #. Fastsettelse av kontingenter.
+   #. Fastsettelse av kontingenter
 
    #. Valg av tillitsvalgte:
 
@@ -549,7 +550,7 @@ a) Generalforsamlingen er foreningens høyeste myndighet i spørsmål som
 --------------
 
 Foreningens medlemmer kan fremme mistillitsforslag mot tillitsvalgte
-som er valgt ihht. § 24 l punkt 6, unntatt Desisjonsutvalget. Slike
+som er valgt iht. § 24 l punkt 6, unntatt Desisjonsutvalget. Slike
 forslag kan bare behandles av en generalforsamling, og må være fremmet
 48 timer før generalforsamlingen. Mistillitsforslag vedtas med 2/3
 flertall. Dersom mistillitsforslaget mot et medlem av et organ blir
