@@ -2,7 +2,7 @@
    REALISTFORENINGENS LOVER
 ===============================
 ------------------------
-Vedtatt 2. november 2016
+Vedtatt 26. april 2017
 ------------------------
 
 
@@ -299,7 +299,7 @@ a) Desisjonsutvalget har tre medlemmer: Det velges ett medlem på den
    ordinære generalforsamlingen i hvert semester, og funksjonstiden er
    tre semestre.
 
-#) Valgbare er alle tidligere tillitsvalgte som nevnt i § 24 l.
+#) Valgbare er alle tidligere tillitsvalgte som nevnt i § 24 m.
 
 #) Desisjonsutvalgets medlemmer kan ikke samtidig være medlemmer av
    noen andre av de faste styrer, utvalg eller komiteer nevnt i § 7,
@@ -490,7 +490,7 @@ a) Generalforsamlingen er foreningens høyeste myndighet i spørsmål som
 #) Generalforsamlingen kan foreta endringer i rekkefølgen av punktene
    til det endelige forslag til dagsorden. Den kan også utelukke ett
    eller flere av de foreslåtte punkter så lenge det ikke strider mot
-   § 24 l. Den endelige dagsorden godkjennes av
+   § 24 m. Den endelige dagsorden godkjennes av
    generalforsamlingen. I forbindelse med godkjennelse av dagsorden
    skal det velges ordstyrer, referent og to medlemmer til å
    undertegne generalforsamlingens protokoll.
@@ -514,6 +514,9 @@ a) Generalforsamlingen er foreningens høyeste myndighet i spørsmål som
    stemmeberettigede kreve at valget skal avgjøres med absolutt
    flertall. Oppnår ingen dette ved første avstemming, avholdes bundet
    omvalg.
+
+#) Tillitsvalgte har funksjonstid fra 1. januar til 30. juni på
+   vårsemesteret og fra 1. juli til 31. desember på høstsemesteret.
 
 #) På ordinær generalforsamling behandles:
 
@@ -550,7 +553,7 @@ a) Generalforsamlingen er foreningens høyeste myndighet i spørsmål som
 --------------
 
 Foreningens medlemmer kan fremme mistillitsforslag mot tillitsvalgte
-som er valgt iht. § 24 l punkt 6, unntatt Desisjonsutvalget. Slike
+som er valgt iht. § 24 m punkt 6, unntatt Desisjonsutvalget. Slike
 forslag kan bare behandles av en generalforsamling, og må være fremmet
 48 timer før generalforsamlingen. Mistillitsforslag vedtas med 2/3
 flertall. Dersom mistillitsforslaget mot et medlem av et organ blir
