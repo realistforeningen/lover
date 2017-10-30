@@ -14,22 +14,22 @@ Vedtatt 2. november 2016
 FORMÅL OG ORGANISASJON
 ======================
 
-§ 1
-----------------
+§ 1 TILHØRIGHET
+---------------
 
 Realistforeningen er fakultetsforening ved Det
 matematisk-naturvitenskapelige fakultet, Universitetet i Oslo.
 
-§ 2
-----------------
+§ 2 FORMÅL
+----------
 
 Realistforeningens formål er å samle foreningens medlemmer til å
 drøfte spørsmål av almenn og faglig art, å øke kameratskapet mellom
 studentene og styrke miljøet ved fakultetet ved selskapelige samvær,
 ekskursjoner og andre tiltak.
 
-§ 3
-----------------
+§ 3 UTBYTTE
+-----------
 
 Realistforeningen er en ideell organisasjon som ikke betaler ut
 utbytte. Realistforeningen skal over et lengre tidsperspektiv ikke gå
@@ -37,8 +37,8 @@ med noe overskudd ut over det som kreves for å opprettholde den
 driften som Generalforsamlingen ønsker av foreningen. Et eventuelt
 overskudd går inn i egenkapitalen til foreningen.
 
-§ 4
-----------------
+§ 4 MEDLEMSKAP
+--------------
 
 Realistforeningen har tre kategorier medlemmer:
 
@@ -50,16 +50,16 @@ Medlemskontingent for livsvarige medlemmer er 10 ganger ordinær
 semesterkontingent. Æresmedlemmer utnevnes på generalforsamling med
 3/4 flertall. Alle kategorier medlemmer har samme rettigheter.
 
-§ 5
-----------------
+§ 5 EKSKLUSJON
+--------------
 
 Hovedstyret avgjør tvilsspørsmål om hvem som er berettiget til
 medlemsskap. Hovedstyret har anledning til å ekskludere et medlem som
 forser seg mot foreningens lover, eller viser utillatelig oppførsel på
 foreningens arrangementer eller øvrige virksomhet.
 
-§ 6
-----------------
+§ 6 OPPLØSNING
+--------------
 
 Går en generalforsamling inn for å oppløse foreningen, skal
 desisjonsutvalget tidligst tre uker og senest fire måneder senere
@@ -67,8 +67,12 @@ innkalle til ekstraordinær generalforsamling hvor saken skal behandles
 på nytt. Dersom foreningen oppløses, disponerer generalforsamlingen
 over foreningens aktiva.
 
-§ 7
-----------------
+
+STYRER OG UTVALG
+======================
+
+§ 7 STYRER OG UTVALG
+--------------------
 
 Realistforeningen har følgende faste styrer og utvalg:
 
@@ -88,12 +92,8 @@ a) Hovedstyret
 I tillegg kan foreningen ha en eller flere komiteer til å ta seg av
 oppgaver som faller utenfor de faste styrer og utvalgs virksomhet.
 
-
-STYRER OG UTVALG
-======================
-
-§ 8
-----------------
+§ 8 BUDSJETTER
+--------------
 
 Generalforsamlingen vedtar budsjettrammer alle styrer, utvalg og
 komiteer skal følge. Detaljerte budsjettforslag skal utarbeides av
@@ -103,8 +103,8 @@ tråd med budsjettrammene og godkjennes av Hovedstyret. Overskridelser
 av budsjettrammer i de respektive styrer, utvalg og komiteer behandles
 av Økonomiutvalget.
 
-§ 9
-----------------
+§ 9 ERFARINGSOVERFØRING
+-----------------------
 
 Alle faste styrer og utvalg nevnt i § 7, tillitsvalgte valgt av
 Generalforsamlingen og innehavere av verv oppnevnt av Hovedstyret
@@ -441,6 +441,9 @@ a) Komiteer utnevnes og får sitt mandat av en generalforsamling eller
 #) En komité har ansvar for å rapportere regnskapsrelevant informasjon
    til Økonomiutvalget og overholde vedtatte budsjetter.
 
+
+GENERELLE BESTEMMELSER
+======================
 
 § 24 GENERALFORSAMLING
 ----------------------
