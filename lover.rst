@@ -80,7 +80,7 @@ a) Hovedstyret
 #) Økonomiutvalget
 #) Desisjonsutvalget
 #) Revisjonsutvalget
-#) Regi
+#) RF-Regi
 #) Vaktgruppa
 #) Husbjørnredaksjonen
 #) Korgruppa
@@ -123,11 +123,12 @@ a) Hovedstyret har følgende stemmeberettigede medlemmer: formann,
    regiformann og Økonomiutvalgets leder.
 
 #) Hovedstyrets stemmeberettigede velges på generalforsamling for ett
-   semester. Unntaket er regiformann som velges iht. § 18 a, og
-   leder av Økonomiutvalget som velges iht. § 15 a. Alle medlemmene
-   velges ved særskilt valg og må ha vært med i minst ett av
-   Realistforeningens styrer og utvalg nevnt i § 7 minst ett semester
-   tidligere eller innehatt verv nevnt i § 10 f.
+   semester. Unntakene er leder av Økonomi- utvalget som velges
+   iht. § 15 a og regiformann som velges på RF-Regi sin
+   generalforsamling. Alle medlemmene velges ved særskilt valg og må
+   ha vært med i minst ett av Realistforeningens styrer og utvalg
+   nevnt i § 7 minst ett semester tidligere eller innehatt verv nevnt
+   i § 10 f.
 
 #) Sekretæren er formannens stedfortreder og fører referat fra
    Hovedstyrets møter.
@@ -241,20 +242,20 @@ a) Kjellerstyret ledes av kjellermester, og har følgende andre
 a) Økonomiutvalget har seks medlemmer. Økonomiutvalgets leder velges
    hvert høstsemester, og funksjonstiden er to semestre. Det velges to
    ordinære medlemmer på den ordinære generalforsamling i hvert
-   semester, og funksjonstiden er to semestre. I tillegg velges
-   forretningsfører for Regi i høstsemesteret, og sitter i to
-   semestre. Økonomiansvarlig for Biørnegildet regnes som medlem i
-   Økonomiutvalget i de semestrene hvor Biørnegildet har økonomisk
-   aktivitet. Utover de øvrige faste medlemmer og Biørnegildets
-   økonomiansvarlig, kan Generalforsamlingen stemme inn ytterlige to
-   medlemmer for perioder på ett semester.
+   semester, og funksjonstiden er to semestre. I tillegg sitter
+   forretningsfører for RF-Regi i Økonomiutvalget. Økonomiansvarlig
+   for Biørnegildet regnes som medlem i Økonomiutvalget i de
+   semestrene hvor Biørnegildet har økonomisk aktivitet. Utover de
+   øvrige faste medlemmer og Biørnegildets økonomiansvarlig, kan
+   Generalforsamlingen stemme inn ytterlige to medlemmer for perioder
+   på ett semester.
 
 #) Økonomiutvalgets medlemmer kan ikke samtidig være medlemmer av noen
    andre av de faste styrer, utvalg eller komiteer nevnt i § 7, eller
    medlemmer av Bjørnegildestyret. Unntakene er
 
    I) Økonomiutvalgets leder, som er medlem i Hovedstyret,
-   #) forretningsfører for Regi, som er medlem i Regi, og
+   #) forretningsfører for RF-Regi, som er medlem i RF-Regi, og
    #) økonomiansvarlig for Biørnegildet, som er medlem av Biørnegildestyret.
 
 #) Økonomiutvalget har ansvaret for Realistforeningens regnskap og for
@@ -359,19 +360,14 @@ a) Revisjonsutvalget har tre medlemmer: Det velges ett medlem på den
    opplyse Generalforsamlingen om eventuelle budsjettoverskridelser.
 
 
-§ 18 REGI
+§ 18 RF-REGI
 ---------
 
-a) Regiformann og forretningsfører velges på generalforsamling for ett
-   år; regiformann om våren, forretningsfører om høsten. Øvrige
-   medlemmer godkjennes av Hovedstyret etter innstilling fra
-   regiformann.
+a) RF-Regi er en undergruppe av Realistforeningen med egne lover, og
+   styres deretter.
 
-#) Regis oppgave er å stå for drift og forvaltning av
-   Realistforeningens tekniske utstyr.
-
-#) Regi har ansvaret for å rapportere regnskapsrelevant informasjon
-   til Økonomiutvalget og overholde vedtatte budsjetter.
+#) Vervene regiformann og forretningsfører for RF-Regi fylles av
+   henholdsvis leder og nestleder av RF-Regi.
 
 
 § 19 VAKTGRUPPA
@@ -545,8 +541,6 @@ a) Generalforsamlingen er foreningens høyeste myndighet i spørsmål som
       #) To medlemmer til Økonomiutvalget (§ 15 a)
       #) Ett medlem til Desisjonsutvalget (§ 16 a)
       #) Ett medlem til Revisjonsutvalget (§ 17 a)
-      #) Formann i Regi (§ 18 a)
-      #) Forretningsforfører i Regi (§ 18 a)
 
 
 § 25 MISTILLIT
