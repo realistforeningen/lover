@@ -2,7 +2,7 @@
    REALISTFORENINGENS LOVER
 ===============================
 ------------------------
-Vedtatt 26. april 2017
+Vedtatt 1. november 2017
 ------------------------
 
 
@@ -266,22 +266,10 @@ a) Økonomiutvalget har seks medlemmer. Økonomiutvalgets leder velges
    styret, det aktuelle utvalget eller den aktuelle komiteen samt
    Hovedstyret, Revisjonsutvalget og Desisjonsutvalget informeres.
 
-#) Økonomiutvalget skal avholde konstituerende møte innen 10
-   virkedager etter nyvalg. Her velger utvalget en sekretær som skal
-   føre protokoll over alle møter. Det konstituerende møtet skal
-   innkalles av lederen i det fungerende Økonomiutvalget og samtlige
-   medlemmer av dette innkalles. Det sittende Økonomiutvalg fører
-   regnskapene ut den inneværende periode.
-
 #) Revisjonsutvalget og ett medlem av Hovedstyret, i tillegg til
    Økonomiutvalgets leder, har møte-, tale-, og forslagsrett på
    Økonomiutvalgets møter. Utvalget kan pålegge medlemmer av styrer og
    komiteer å møte ved behandlingen av bestemte saker.
-
-#) Økonomiutvalget kan bare fatte vedtak i møte når det er minst tre
-   medlemmer tilstede. For gyldig vedtak kreves det at minst tre
-   medlemmer har stemt for forslaget. Ved stemmelikhet teller leders
-   stemme dobbelt.
 
 #) Økonomiutvalget skal utarbeide forskrifter som kan lette kontrollen
    med regnskapene.
