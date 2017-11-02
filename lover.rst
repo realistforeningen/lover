@@ -207,7 +207,7 @@ a) Fagstyret ledes av fagsjef, og har følgende andre medlemmer:
    informasjon til Økonomiutvalget og overholde vedtatte budsjetter.
 
 
-§ 13 BLÆSTGRUPPA
+§ 13 BLÆSTSTYRET
 ----------------
 
 a) Blæststyret ledes av blæstsjef, og har følgende andre medlemmer:
