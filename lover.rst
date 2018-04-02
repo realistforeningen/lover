@@ -349,7 +349,7 @@ a) Revisjonsutvalget har tre medlemmer: Det velges ett medlem på den
 
 
 § 18 RF-REGI
----------
+------------
 
 a) RF-Regi er en undergruppe av Realistforeningen med egne lover, og
    styres deretter.
