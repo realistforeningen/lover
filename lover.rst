@@ -288,7 +288,9 @@ a) Desisjonsutvalget har tre medlemmer: Det velges ett medlem på den
    ordinære generalforsamlingen i hvert semester, og funksjonstiden er
    tre semestre.
 
-#) Valgbare er alle tidligere tillitsvalgte som nevnt i § 24 m.
+#) Valgbare er alle tidligere tillitsvalgte som nevnt i § 24 m, samt 
+   tidligere tillitsvalgte med vervene regiformann, forretningsfører for 
+   RF-Regi eller gildesjef.
 
 #) Desisjonsutvalgets medlemmer kan ikke samtidig være medlemmer av
    noen andre av de faste styrer, utvalg eller komiteer nevnt i § 7,
