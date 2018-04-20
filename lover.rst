@@ -2,7 +2,7 @@
    REALISTFORENINGENS LOVER
 ===============================
 ------------------------
-Vedtatt 1. november 2017
+Vedtatt 18. april 2018
 ------------------------
 
 
