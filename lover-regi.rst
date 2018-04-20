@@ -2,7 +2,7 @@
    RF-REGIS LOVER
 ===============================
 ------------------------
-Vedtatt 1. november 2017
+Vedtatt 18. april 2018
 ------------------------
 
 
@@ -148,11 +148,11 @@ a)	Generalforsamlingen er foreningens høyeste myndighet i spørsmål som ikke k
 
 		#. Valg av tillitsvalgte:
 
-			a) Regiformann
+			a) Regiformann (§ 8 b)
 			
-			#) Foretningsfører
+			#) Foretningsfører (§ 8 b)
 			
-			#) Platekusksjef
+			#) Platekusksjef (§ 8 c)
 
 
 § 14 MISTILLIT
