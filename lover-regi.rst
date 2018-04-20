@@ -158,7 +158,7 @@ a)	Generalforsamlingen er foreningens høyeste myndighet i spørsmål som ikke k
 § 14 MISTILLIT
 --------------
 
-Foreningens medlemmer kan fremme mistillitsforslag mot tillitsvalgte som er valgt ihht. § 13 k punkt 5. Slike forslag kan bare behandles av en generalforsamling, og må være fremmet 48 timer før generalforsamlingen. Mistillitsforslag vedtas med 2/3 flertall. Dersom mistillitsforslaget mot et medlem av styret blir vedtatt, kan generalforsamlingen vedta å holde nyvalg på samtlige medlemmer av styret for resten av hvert medlems funksjonstid.
+Foreningens medlemmer kan fremme mistillitsforslag mot tillitsvalgte som er valgt ihht. §  3 k punkt 5. Slike forslag kan bare behandles av en generalforsamling, og må være fremmet 48 timer før generalforsamlingen. Mistillitsforslag vedtas med 2/3 flertall. Dersom mistillitsforslaget mot et medlem av styret blir vedtatt, kan generalforsamlingen vedta å holde nyvalg på samtlige medlemmer av styret for resten av hvert medlems funksjonstid.
 
 
 § 15 LOVENDRINGER
