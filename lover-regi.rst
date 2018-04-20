@@ -58,11 +58,11 @@ STYRET OG UTVALG
 § 8 STYRET
 ----------
 
-a)  Styret i RF-Regi består av: regiformann, forretningsfører, platekusksjef og Realistforeningens formann.
+a)  Styret i RF-Regi består av: regiformann, forretningsfører, DJ-sjef og Realistforeningens formann.
 
 #)  Regiformann og forretningsfører velges på generalforsamling for ett år; regiformann om våren, forretningsfører om høsten. Realistforeningens formann er Realistforeningens representant. Styret kan tilknytte seg det antall funksjonærer styret finner nødvendig.
 
-#)  Platekusksjef velges på generalforsamling og sitter for ett semester.
+#)  DJ-sjef velges på generalforsamling og sitter for ett semester.
 
 #)  Regiformann er foreningens daglige leder og styreleder.
 
@@ -152,7 +152,7 @@ a)	Generalforsamlingen er foreningens høyeste myndighet i spørsmål som ikke k
 			
 			#) Foretningsfører (§ 8 b)
 			
-			#) Platekusksjef (§ 8 c)
+			#) DJ-sjef (§ 8 c)
 
 
 § 14 MISTILLIT
