@@ -2,7 +2,7 @@
    REALISTFORENINGENS LOVER
 ===============================
 ------------------------
-Vedtatt 1. november 2017
+Vedtatt 18. april 2018
 ------------------------
 
 
@@ -288,7 +288,9 @@ a) Desisjonsutvalget har tre medlemmer: Det velges ett medlem på den
    ordinære generalforsamlingen i hvert semester, og funksjonstiden er
    tre semestre.
 
-#) Valgbare er alle tidligere tillitsvalgte som nevnt i § 24 m.
+#) Valgbare er alle tidligere tillitsvalgte som nevnt i § 24 m, samt 
+   tidligere tillitsvalgte med vervene regiformann, forretningsfører for 
+   RF-Regi eller gildesjef.
 
 #) Desisjonsutvalgets medlemmer kan ikke samtidig være medlemmer av
    noen andre av de faste styrer, utvalg eller komiteer nevnt i § 7,
@@ -327,7 +329,7 @@ a) Revisjonsutvalget har tre medlemmer: Det velges ett medlem på den
 
 #) Revisjonsutvalgets medlemmer kan ikke samtidig være medlemmer av
    noen andre av de faste styrer, utvalg eller komiteer nevnt i
-   § 7 a–h, inneha et annet verv i Realistforeningen eller ha vært
+   § 7 a–i, inneha et annet verv i Realistforeningen eller ha vært
    medlem av Økonomiutvalget foregående to semestre.
 
 #) Revisjonsutvalgets oppgave er å revidere Realistforeningens
