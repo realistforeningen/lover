@@ -257,7 +257,7 @@ a) Økonomiutvalget har seks medlemmer. Økonomiutvalgets leder velges
 
 #) Økonomiutvalgets medlemmer kan ikke samtidig være medlem av noen andre
    av de faste styrer og utvalg nevnt i § 7, komiteer nevnt i § 8, RF-Regis styre (§ 22) eller
-   Bjørnegildestyret (§ 23). Unntakene er
+   Bjørnegildestyret (§ 23), eller inneha verv nevnt i § 11 f.. Unntakene er
 
    I) Økonomiutvalgets leder, som er medlem i Hovedstyret,
    #) forretningsfører for RF-Regi, som er medlem i RF-Regi, og
@@ -333,8 +333,8 @@ a) Revisjonsutvalget har tre medlemmer: Det velges ett medlem på den
    tre semestre.
 
 #) Revisjonsutvalgets medlemmer kan ikke samtidig være medlem av noen andre
-   av de faste styrer og utvalg nevnt i § 7 a–h, komiteer nevnt i § 8 eller 
-   RF-Regis styre (§ 22), inneha verv nevnt i § 11 f eller ha vært medlem av 
+   av de faste styrer og utvalg nevnt i § 7 a–h, komiteer nevnt i § 8, 
+   RF-Regis styre (§ 22) eller Biørnegildestyret (§ 23), inneha verv nevnt i § 11 f eller ha vært medlem av 
    Økonomiutvalget foregående to semestre.
 
 #) Revisjonsutvalgets oppgave er å revidere Realistforeningens
