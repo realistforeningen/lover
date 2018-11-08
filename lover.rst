@@ -84,13 +84,13 @@ a) Hovedstyret (§ 11)
 #) Økonomiutvalget (§ 16)
 #) Desisjonsutvalget (§ 17)
 #) Revisjonsutvalget (§ 18)
-#) RF-Regi (§ 19)
-#) Vaktgruppa (§ 20)
-#) Husbjørnredaksjonen (§ 21)
+#) Vaktgruppa (§ 19)
+#) Husbjørnredaksjonen (§ 20)
 
 § 8 KOMITEER
 ------------
-#) Foreningen kan ha en eller flere komiteer til å ta seg av oppgaver
+
+a) Foreningen kan ha en eller flere komiteer til å ta seg av oppgaver
 som faller utenfor de faste styrer og utvalgs virksomhet.
 #) Komiteer utnevnes og får sitt mandat av en generalforsamling eller
 Hovedstyret.
@@ -132,7 +132,7 @@ a) Hovedstyret har følgende stemmeberettigede medlemmer: formann,
    iht. § 16 a og regiformann som velges på RF-Regi sin
    generalforsamling. Alle medlemmene velges ved særskilt valg og må
    ha vært med i minst ett av Realistforeningens styrer og utvalg
-   nevnt i § 7, tilknyttet øvrige grupperinger (§§ 21-22) eller innehatt 
+   nevnt i § 7, tilknyttet øvrige grupperinger (§§ 21-23) eller innehatt 
    verv nevnt i § 11 f minst ett semester tidligere.
 
 #) Sekretæren er formannens stedfortreder og fører referat fra
@@ -256,7 +256,7 @@ a) Økonomiutvalget har seks medlemmer. Økonomiutvalgets leder velges
    på ett semester.
 
 #) Økonomiutvalgets medlemmer kan ikke samtidig være medlem av noen andre
-   av de faste styrer og utvalg nevnt i § 7, komiteer nevnt i § 8, eller
+   av de faste styrer og utvalg nevnt i § 7, komiteer nevnt i § 8, RF-Regis styre (§ 22) eller
    Bjørnegildestyret (§ 23). Unntakene er
 
    I) Økonomiutvalgets leder, som er medlem i Hovedstyret,
@@ -298,7 +298,7 @@ a) Desisjonsutvalget har tre medlemmer: Det velges ett medlem på den
    RF-Regi eller gildesjef.
 
 #) Desisjonsutvalgets medlemmer kan ikke samtidig være medlem av noen andre
-   av de faste styrer og utvalg nevnt i § 7, komiteer nevnt i § 8 eller
+   av de faste styrer og utvalg nevnt i § 7, komiteer nevnt i § 8, RF-Regis styre (§ 22) eller
    Bjørnegildestyret (§ 23), eller inneha verv nevnt i § 11 f.
 
 #) Desisjonsutvalget har den endelige avgjørelse i tvilsspørsmål om
@@ -333,9 +333,9 @@ a) Revisjonsutvalget har tre medlemmer: Det velges ett medlem på den
    tre semestre.
 
 #) Revisjonsutvalgets medlemmer kan ikke samtidig være medlem av noen andre
-   av de faste styrer og utvalg nevnt i § 7 a–i, komiteer nevnt i § 8,
-   inneha verv nevnt i § 11 f eller ha vært medlem av Økonomiutvalget
-   foregående to semestre.
+   av de faste styrer og utvalg nevnt i § 7 a–h, komiteer nevnt i § 8 eller 
+   RF-Regis styre (§ 22), inneha verv nevnt i § 11 f eller ha vært medlem av 
+   Økonomiutvalget foregående to semestre.
 
 #) Revisjonsutvalgets oppgave er å revidere Realistforeningens
    regnskaper. Minst to av revisjonsutvalgets medlemmer må delta i
@@ -355,17 +355,7 @@ a) Revisjonsutvalget har tre medlemmer: Det velges ett medlem på den
    opplyse Generalforsamlingen om eventuelle budsjettoverskridelser.
 
 
-§ 19 RF-REGI
-------------
-
-a) RF-Regi er en undergruppe av Realistforeningen med egne lover, og
-   styres deretter.
-
-#) Vervene regiformann og forretningsfører for RF-Regi fylles av
-   henholdsvis leder og nestleder av RF-Regi.
-
-
-§ 20 VAKTGRUPPA
+§ 19 VAKTGRUPPA
 ---------------
 
 a) Vaktgruppa ledes av vaktgruppesjef som utpekes av Hovedstyret etter
@@ -378,7 +368,7 @@ a) Vaktgruppa ledes av vaktgruppesjef som utpekes av Hovedstyret etter
 #) Vaktgruppa har ansvar for Vaktgruppas regnskap og økonomistyring.
 
 
-§ 21 HUSBJØRNREDAKSJONEN
+§ 20 HUSBJØRNREDAKSJONEN
 ------------------------
 
 a) Husbjørnredaksjonen ledes av husbjørnredaktør, og kan knytte til
@@ -391,7 +381,7 @@ a) Husbjørnredaksjonen ledes av husbjørnredaktør, og kan knytte til
    informasjon til Økonomiutvalget og overholde vedtatte budsjetter.
 
 
-§ 22 KORGRUPPA
+§ 21 KORGRUPPA
 --------------
 
 a) Korgruppa ledes av kordirigent, og kan knytte til seg så mange
@@ -403,7 +393,16 @@ a) Korgruppa ledes av kordirigent, og kan knytte til seg så mange
 
 #) Korgruppa har ansvar for å rapportere regnskapsrelevant informasjon
    til Økonomiutvalget og overholde vedtatte budsjetter.
+   
+   
+§ 22 RF-REGI
+------------
 
+a) RF-Regi er en undergruppe av Realistforeningen med egne lover, og
+   styres deretter.
+
+#) Vervene regiformann og forretningsfører for RF-Regi fylles av
+   henholdsvis leder og nestleder av RF-Regi.
 
 § 23 BJØRNEGILDET
 -----------------
