@@ -133,8 +133,8 @@ a) Hovedstyret har følgende stemmeberettigede medlemmer: formann,
    iht. § 16 a og regiformann som velges på RF-Regi sin
    generalforsamling. Alle medlemmene velges ved særskilt valg og må
    ha vært med i minst ett av Realistforeningens styrer og utvalg
-   nevnt i § 7 minst ett semester tidligere eller innehatt verv nevnt
-   i § 11 f.
+   nevnt i § 7, tilknyttet øvrige grupperinger (§ 22) eller innehatt 
+   verv nevnt i § 11 f minst ett semester tidligere.
 
 #) Sekretæren er formannens stedfortreder og fører referat fra
    Hovedstyrets møter.
