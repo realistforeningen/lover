@@ -489,7 +489,7 @@ a) Generalforsamlingen er foreningens høyeste myndighet i spørsmål som
    tre stemmeberettigede krever det.
 
 #) Valgbare som tillitsvalgte i Realistforeningen er alle foreningens
-   medlemmer, med de innskrenkninger som følger av § 16 b, § 17 b
+   medlemmer, med de innskrenkninger som følger av § 11 b, § 16 b, § 17 b
    og c og § 18 b.
 
 #) Valg på flere tillitsvalgte under ett avgjøres med alminnelig
