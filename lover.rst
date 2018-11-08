@@ -76,23 +76,29 @@ STYRER OG UTVALG
 
 Realistforeningen har følgende faste styrer og utvalg:
 
-a) Hovedstyret
-#) Arrangementstyret
-#) Fagstyret
-#) Blæststyret
-#) Kjellerstyret
-#) Økonomiutvalget
-#) Desisjonsutvalget
-#) Revisjonsutvalget
-#) RF-Regi
-#) Vaktgruppa
-#) Husbjørnredaksjonen
-#) Korgruppa
+a) Hovedstyret (§ 11)
+#) Arrangementstyret (§ 12)
+#) Fagstyret (§ 13)
+#) Blæststyret (§ 14)
+#) Kjellerstyret (§ 15)
+#) Økonomiutvalget (§ 16)
+#) Desisjonsutvalget (§ 17)
+#) Revisjonsutvalget (§ 18)
+#) RF-Regi (§ 19)
+#) Vaktgruppa (§ 20)
+#) Husbjørnredaksjonen (§ 21)
+#) Korgruppa (§ 22)
 
-I tillegg kan foreningen ha en eller flere komiteer til å ta seg av
-oppgaver som faller utenfor de faste styrer og utvalgs virksomhet.
+§ 8 KOMITEER
+------------
+#) Foreningen kan ha en eller flere komiteer til å ta seg av oppgaver
+som faller utenfor de faste styrer og utvalgs virksomhet.
+#) Komiteer utnevnes og får sitt mandat av en generalforsamling eller
+Hovedstyret.
+#) En komité har ansvar for å rapportere regnskapsrelevant informasjon
+til Økonomiutvalget og overholde vedtatte budsjetter.
 
-§ 8 BUDSJETTER
+§ 9 BUDSJETTER
 --------------
 
 Generalforsamlingen vedtar budsjettrammer alle styrer, utvalg og
@@ -103,19 +109,19 @@ tråd med budsjettrammene og godkjennes av Hovedstyret. Overskridelser
 av budsjettrammer i de respektive styrer, utvalg og komiteer behandles
 av Økonomiutvalget.
 
-§ 9 ERFARINGSOVERFØRING
+§ 10 ERFARINGSOVERFØRING
 -----------------------
 
 Alle faste styrer og utvalg nevnt i § 7, tillitsvalgte valgt av
 Generalforsamlingen og innehavere av verv oppnevnt av Hovedstyret
-iht. § 10 f, har ansvar for å lage og oppdatere erfaringsprotokoller
+iht. § 11 f, har ansvar for å lage og oppdatere erfaringsprotokoller
 for opplæring av etterfølgende innehavere av vervet og funksjonærer
-tilknyttet styret iht. § 10 f. Alle personer omfattet av første ledd
+tilknyttet styret iht. § 11 f. Alle personer omfattet av første ledd
 har ansvar for at påtroppende vervinnehaver får den nødvendige
 opplæring for å inneha sitt verv. I denne sammenheng skal også disse
 tekster samt RFs lover gjennomgås.
 
-§ 10 HOVEDSTYRET
+§ 11 HOVEDSTYRET
 ----------------
 
 a) Hovedstyret har følgende stemmeberettigede medlemmer: formann,
@@ -124,11 +130,11 @@ a) Hovedstyret har følgende stemmeberettigede medlemmer: formann,
 
 #) Hovedstyrets stemmeberettigede velges på generalforsamling for ett
    semester. Unntakene er leder av Økonomiutvalget som velges
-   iht. § 15 a og regiformann som velges på RF-Regi sin
+   iht. § 16 a og regiformann som velges på RF-Regi sin
    generalforsamling. Alle medlemmene velges ved særskilt valg og må
    ha vært med i minst ett av Realistforeningens styrer og utvalg
    nevnt i § 7 minst ett semester tidligere eller innehatt verv nevnt
-   i § 10 f.
+   i § 11 f.
 
 #) Sekretæren er formannens stedfortreder og fører referat fra
    Hovedstyrets møter.
@@ -175,7 +181,7 @@ a) Hovedstyret har følgende stemmeberettigede medlemmer: formann,
    foreningens styrer, utvalg og verv.
 
 
-§ 11 ARRANGEMENTSSTYRET
+§ 12 ARRANGEMENTSSTYRET
 -----------------------
 
 a) Arrangementsstyret ledes av arrangementssjef, og har følgende andre
@@ -192,7 +198,7 @@ a) Arrangementsstyret ledes av arrangementssjef, og har følgende andre
    informasjon til Økonomiutvalget og overholde vedtatte budsjetter.
 
 
-§ 12 FAGSTYRET
+§ 13 FAGSTYRET
 --------------
 
 a) Fagstyret ledes av fagsjef, og har følgende andre medlemmer:
@@ -208,7 +214,7 @@ a) Fagstyret ledes av fagsjef, og har følgende andre medlemmer:
    informasjon til Økonomiutvalget og overholde vedtatte budsjetter.
 
 
-§ 13 BLÆSTSTYRET
+§ 14 BLÆSTSTYRET
 ----------------
 
 a) Blæststyret ledes av blæstsjef, og har følgende andre medlemmer:
@@ -222,7 +228,7 @@ a) Blæststyret ledes av blæstsjef, og har følgende andre medlemmer:
    informasjon til Økonomiutvalget og overholde vedtatte budsjetter.
 
 
-§ 14 KJELLERSTYRET
+§ 15 KJELLERSTYRET
 ------------------
 
 a) Kjellerstyret ledes av kjellermester, og har følgende andre
@@ -236,7 +242,7 @@ a) Kjellerstyret ledes av kjellermester, og har følgende andre
    informasjon til Økonomiutvalget og overholde vedtatte budsjetter.
 
 
-§ 15 ØKONOMIUTVALGET
+§ 16 ØKONOMIUTVALGET
 --------------------
 
 a) Økonomiutvalget har seks medlemmer. Økonomiutvalgets leder velges
@@ -250,9 +256,9 @@ a) Økonomiutvalget har seks medlemmer. Økonomiutvalgets leder velges
    Generalforsamlingen stemme inn ytterlige to medlemmer for perioder
    på ett semester.
 
-#) Økonomiutvalgets medlemmer kan ikke samtidig være medlemmer av noen
-   andre av de faste styrer, utvalg eller komiteer nevnt i § 7, eller
-   medlemmer av Bjørnegildestyret. Unntakene er
+#) Økonomiutvalgets medlemmer kan ikke samtidig være medlem av noen andre
+   av de faste styrer og utvalg nevnt i § 7, komiteer nevnt i § 8, eller
+   Bjørnegildestyret (§ 23). Unntakene er
 
    I) Økonomiutvalgets leder, som er medlem i Hovedstyret,
    #) forretningsfører for RF-Regi, som er medlem i RF-Regi, og
@@ -281,7 +287,7 @@ a) Økonomiutvalget har seks medlemmer. Økonomiutvalgets leder velges
    generalforsamling er avholdt.
 
 
-§ 16 DESISJONSUTVALGET
+§ 17 DESISJONSUTVALGET
 ----------------------
 
 a) Desisjonsutvalget har tre medlemmer: Det velges ett medlem på den
@@ -292,9 +298,9 @@ a) Desisjonsutvalget har tre medlemmer: Det velges ett medlem på den
    tidligere tillitsvalgte med vervene regiformann, forretningsfører for 
    RF-Regi eller gildesjef.
 
-#) Desisjonsutvalgets medlemmer kan ikke samtidig være medlemmer av
-   noen andre av de faste styrer, utvalg eller komiteer nevnt i § 7,
-   eller verv nevnt i § 10 f eller medlemmer av Bjørnegildestyret.
+#) Desisjonsutvalgets medlemmer kan ikke samtidig være medlem av noen andre
+   av de faste styrer og utvalg nevnt i § 7, komiteer nevnt i § 8 eller
+   Bjørnegildestyret (§ 23), eller inneha verv nevnt i § 11 f.
 
 #) Desisjonsutvalget har den endelige avgjørelse i tvilsspørsmål om
    tolkning av lovene. Utvalget kan også fatte vedtak og gi regler i
@@ -320,17 +326,17 @@ a) Desisjonsutvalget har tre medlemmer: Det velges ett medlem på den
    tilgjengelige.
 
 
-§ 17 REVISJONSUTVALGET
+§ 18 REVISJONSUTVALGET
 ----------------------
 
 a) Revisjonsutvalget har tre medlemmer: Det velges ett medlem på den
    ordinære generalforsamlingen i hvert semester, og funksjonstiden er
    tre semestre.
 
-#) Revisjonsutvalgets medlemmer kan ikke samtidig være medlemmer av
-   noen andre av de faste styrer, utvalg eller komiteer nevnt i
-   § 7 a–i, inneha et annet verv i Realistforeningen eller ha vært
-   medlem av Økonomiutvalget foregående to semestre.
+#) Revisjonsutvalgets medlemmer kan ikke samtidig være medlem av noen andre
+   av de faste styrer og utvalg nevnt i § 7 a–i, komiteer nevnt i § 8,
+   inneha verv nevnt i § 11 f eller ha vært medlem av Økonomiutvalget
+   foregående to semestre.
 
 #) Revisjonsutvalgets oppgave er å revidere Realistforeningens
    regnskaper. Minst to av revisjonsutvalgets medlemmer må delta i
@@ -350,7 +356,7 @@ a) Revisjonsutvalget har tre medlemmer: Det velges ett medlem på den
    opplyse Generalforsamlingen om eventuelle budsjettoverskridelser.
 
 
-§ 18 RF-REGI
+§ 19 RF-REGI
 ------------
 
 a) RF-Regi er en undergruppe av Realistforeningen med egne lover, og
@@ -360,7 +366,7 @@ a) RF-Regi er en undergruppe av Realistforeningen med egne lover, og
    henholdsvis leder og nestleder av RF-Regi.
 
 
-§ 19 VAKTGRUPPA
+§ 20 VAKTGRUPPA
 ---------------
 
 a) Vaktgruppa ledes av vaktgruppesjef som utpekes av Hovedstyret etter
@@ -373,7 +379,7 @@ a) Vaktgruppa ledes av vaktgruppesjef som utpekes av Hovedstyret etter
 #) Vaktgruppa har ansvar for Vaktgruppas regnskap og økonomistyring.
 
 
-§ 20 HUSBJØRNREDAKSJONEN
+§ 21 HUSBJØRNREDAKSJONEN
 ------------------------
 
 a) Husbjørnredaksjonen ledes av husbjørnredaktør, og kan knytte til
@@ -386,7 +392,7 @@ a) Husbjørnredaksjonen ledes av husbjørnredaktør, og kan knytte til
    informasjon til Økonomiutvalget og overholde vedtatte budsjetter.
 
 
-§ 21 KORGRUPPA
+§ 22 KORGRUPPA
 --------------
 
 a) Korgruppa ledes av kordirigent, og kan knytte til seg så mange
@@ -400,7 +406,7 @@ a) Korgruppa ledes av kordirigent, og kan knytte til seg så mange
    til Økonomiutvalget og overholde vedtatte budsjetter.
 
 
-§ 22 BJØRNEGILDET
+§ 23 BJØRNEGILDET
 -----------------
 
 a) Bjørnegildet avholdes vårsemesteret hvert tredje år.
@@ -416,18 +422,8 @@ a) Bjørnegildet avholdes vårsemesteret hvert tredje år.
 
 #) Formannen i Realistforeningen har møte- og stemmerett i
    Bjørnegildestyret.
-
-
-§ 23 KOMITEER
--------------
-
-a) Komiteer utnevnes og får sitt mandat av en generalforsamling eller
-   Hovedstyret.
-
-#) En komité har ansvar for å rapportere regnskapsrelevant informasjon
-   til Økonomiutvalget og overholde vedtatte budsjetter.
-
-
+   
+   
 GENERELLE BESTEMMELSER
 ======================
 
@@ -435,7 +431,7 @@ GENERELLE BESTEMMELSER
 ----------------------
 
 a) Generalforsamlingen er foreningens høyeste myndighet i spørsmål som
-   ikke kommer inn under § 16 d første punktum.  Alle medlemmer av
+   ikke kommer inn under § 17 d første punktum.  Alle medlemmer av
    Realistforeningen har tale- og forslagsrett.
 
    Alle medlemmer av Realistforeningen som var innmeldt før
@@ -495,8 +491,8 @@ a) Generalforsamlingen er foreningens høyeste myndighet i spørsmål som
    tre stemmeberettigede krever det.
 
 #) Valgbare som tillitsvalgte i Realistforeningen er alle foreningens
-   medlemmer, med de innskrenkninger som følger av § 15 b, § 16 b
-   og c og § 17 b.
+   medlemmer, med de innskrenkninger som følger av § 16 b, § 17 b
+   og c og § 18 b.
 
 #) Valg på flere tillitsvalgte under ett avgjøres med alminnelig
    flertall. Ved valg på en enkelt tillitsvalgt kan tre
@@ -523,17 +519,17 @@ a) Generalforsamlingen er foreningens høyeste myndighet i spørsmål som
 
    #. Valg av tillitsvalgte:
 
-      a) Formann (§ 10 b)
-      #) Sekretær (§ 10 b)
-      #) Arrangementsjef (§ 10 b)
-      #) Fagsjef (§ 10 b)
-      #) Kjellermester (§ 10 b)
-      #) Blæstsjef (§ 10 b)
-      #) Kafesjef (§ 14 a)
-      #) Leder av Økonomiutvalget (§ 15 a)
-      #) To medlemmer til Økonomiutvalget (§ 15 a)
-      #) Ett medlem til Desisjonsutvalget (§ 16 a)
-      #) Ett medlem til Revisjonsutvalget (§ 17 a)
+      a) Formann (§ 11 b)
+      #) Sekretær (§ 11 b)
+      #) Arrangementsjef (§ 11 b)
+      #) Fagsjef (§ 11 b)
+      #) Kjellermester (§ 11 b)
+      #) Blæstsjef (§ 11 b)
+      #) Kafesjef (§ 15 a)
+      #) Leder av Økonomiutvalget (§ 16 a)
+      #) To medlemmer til Økonomiutvalget (§ 16 a)
+      #) Ett medlem til Desisjonsutvalget (§ 17 a)
+      #) Ett medlem til Revisjonsutvalget (§ 18 a)
 
 
 § 25 MISTILLIT
