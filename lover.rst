@@ -87,7 +87,6 @@ a) Hovedstyret (§ 11)
 #) RF-Regi (§ 19)
 #) Vaktgruppa (§ 20)
 #) Husbjørnredaksjonen (§ 21)
-#) Korgruppa (§ 22)
 
 § 8 KOMITEER
 ------------
@@ -133,7 +132,7 @@ a) Hovedstyret har følgende stemmeberettigede medlemmer: formann,
    iht. § 16 a og regiformann som velges på RF-Regi sin
    generalforsamling. Alle medlemmene velges ved særskilt valg og må
    ha vært med i minst ett av Realistforeningens styrer og utvalg
-   nevnt i § 7, tilknyttet øvrige grupperinger (§ 22) eller innehatt 
+   nevnt i § 7, tilknyttet øvrige grupperinger (§§ 21-22) eller innehatt 
    verv nevnt i § 11 f minst ett semester tidligere.
 
 #) Sekretæren er formannens stedfortreder og fører referat fra
