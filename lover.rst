@@ -114,10 +114,10 @@ av Økonomiutvalget.
 Alle faste styrer og utvalg nevnt i § 7, tillitsvalgte valgt av
 Generalforsamlingen og innehavere av verv oppnevnt av Hovedstyret
 iht. § 11 f, har ansvar for å lage og oppdatere erfaringsprotokoller
-for opplæring av etterfølgende innehavere av vervet og funksjonærer
-tilknyttet styret iht. § 11 f. Alle personer omfattet av første ledd
-har ansvar for at påtroppende vervinnehaver får den nødvendige
-opplæring for å inneha sitt verv. I denne sammenheng skal også disse
+for opplæring av etterfølgende tillitsvalgte, innehavere av verv og funksjonærer
+tilknyttet styret eller utvalget iht. § 11 g. Alle personer omfattet av første ledd
+har ansvar for at påtroppende tillitsvalgt eller vervinnehaver får den nødvendige
+opplæring for å inneha sin stilling. I denne sammenheng skal også disse
 tekster samt RFs lover gjennomgås.
 
 § 11 HOVEDSTYRET
@@ -297,7 +297,7 @@ a) Desisjonsutvalget har tre medlemmer: Det velges ett medlem på den
    tre semestre.
 
 #) Valgbare er alle tidligere tillitsvalgte som nevnt i § 24 m, samt 
-   tidligere tillitsvalgte med vervene regiformann, forretningsfører for 
+   tidligere tillitsvalgte som regiformann, forretningsfører for 
    RF-Regi eller gildesjef.
 
 #) Desisjonsutvalgets medlemmer kan ikke samtidig være medlem av noen andre
@@ -396,7 +396,7 @@ a) Korgruppa ledes av kordirigent, og kan knytte til seg så mange
 a) RF-Regi er en undergruppe av Realistforeningen med egne lover, og
    styres deretter.
 
-#) Vervene regiformann og forretningsfører for RF-Regi fylles av
+#) Stillingene som regiformann og forretningsfører for RF-Regi fylles av
    henholdsvis leder og nestleder av RF-Regi.
 
 § 23 BIØRNEGILDET
