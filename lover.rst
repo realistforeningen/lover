@@ -153,11 +153,12 @@ a) Hovedstyret har følgende stemmeberettigede medlemmer: formann,
    oppnevne andre verv etter behov. Hovedstyret kan avsette nevnte
    verv.
 
-#) Hovedstyret kan bestemme at andre styrer, utvalg og komiteer selv
-   kan knytte til seg inntil et bestemt antall funksjonærer for å
-   utføre nærmere bestemte oppgaver. Funksjonærer blir regnet som
-   medlemmer av gjeldende styrer og utvalg, dog uten stemmerett.
-
+#) Hovedstyret kan bestemme at andre styrer, utvalg og komiteer selv kan 
+   knytte til seg inntil et bestemt antall funksjonærer for å utføre 
+   nærmere bestemte oppgaver. Funksjonærer blir regnet som medlemmer av 
+   gjeldende styrer og utvalg, dog uten stemmerett. Hovedstyret kan avsette 
+   funksjonærer.
+   
 #) Innkalling til Hovedstyremøte med foreløpig dagsorden skal være
    skriftlig og offentliggjort minst tre dager før møtet, med mindre
    det er spesielle tungtveiende hensyn. Innkallingen skal
