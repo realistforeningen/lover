@@ -149,7 +149,7 @@ a) Hovedstyret har følgende stemmeberettigede medlemmer: formann,
    skjenkemester, utlånsansvarlig, vaktmester, populærvitenskapelig
    ansvarlig, bedriftskontakt, donaldsjef, vaktgruppesjef,
    arrangementsmester, internansvarlig, vevmester, panikkansvarlig,
-   husbjørnredaktør, baffelmester og kordirigent. Hovedstyret kan
+   husbjørnredaktør, baffelmester, korleder og kordirigent. Hovedstyret kan
    oppnevne andre verv etter behov.  Hovedstyret kan avsette innehavere 
    av nevnte verv.
 
@@ -379,12 +379,11 @@ a) Husbjørnredaksjonen ledes av husbjørnredaktør.
 § 21 KORGRUPPA
 --------------
 
-a) Korgruppa ledes av kordirigent, og kan knytte til seg så mange
-   medlemmer som kordirigenten finner ønskelig.
+a) Korgruppa ledes av korleder.
 
-#) Korgruppa har ansvaret for å organisere korøvelser, drive
-   sangopplæring for foreningens medlemmer, og opptre med korsang ved
-   passende anledninger.
+#) Korleder og kordirigent har ansvaret for å organisere korøvelser, 
+   drive sangopplæring for foreningens medlemmer, og opptre med korsang 
+   ved passende anledninger.
 
 #) Korgruppa har ansvar for å rapportere regnskapsrelevant informasjon
    til Økonomiutvalget og overholde vedtatte budsjetter.
