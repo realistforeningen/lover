@@ -263,14 +263,17 @@ a) Økonomiutvalget har seks medlemmer. Økonomiutvalgets leder velges
    #) forretningsfører for RF-Regi, som er medlem i RF-Regi, og
    #) økonomiansvarlig for Biørnegildet, som er medlem av Biørnegildestyret.
 
-#) Økonomiutvalget har ansvaret for Realistforeningens regnskap og for
-   å lære opp alle styrer, utvalg og komiteer i
-   økonomistyring. Økonomiutvalget kan pålegge styrer, utvalg og
-   komiteer å føre sine egne regnskap, men fører ellers alle
-   regnskap. Økonomiutvalget skal også kontrollere at foreningens
-   budsjett blir fulgt. I tilfelle budsjettsprekk, skal det aktuelle
-   styret, det aktuelle utvalget eller den aktuelle komiteen samt
+#) Økonomiutvalget har ansvaret for Realistforeningens regnskap og for å 
+   lære opp alle styrer, utvalg, komiteer og innehavere av verv nevnt i § 
+   11 f i økonomistyring. Økonomiutvalget skal også kontrollere at 
+   foreningens budsjett blir fulgt. I tilfelle budsjettsprekk, skal det 
+   aktuelle styret, det aktuelle utvalget eller den aktuelle komiteen samt 
    Hovedstyret, Revisjonsutvalget og Desisjonsutvalget informeres.
+   
+#) Regnskapet skal være ferdigstilt senest tre uker før generalforsamlingen 
+   påfølgende semester. Blir ikke regnskapet godkjent på 
+   generalforsamlingen, skal eventuelle feil utbedres før regnskapet legges 
+   frem på nytt påfølgende ordinære generalforsamling.
 
 #) Revisjonsutvalget og ett medlem av Hovedstyret, i tillegg til
    Økonomiutvalgets leder, har møte-, tale-, og forslagsrett på
@@ -341,13 +344,6 @@ a) Revisjonsutvalget har tre medlemmer: Det velges ett medlem på den
    regnskaper. Minst to av revisjonsutvalgets medlemmer må delta i
    revideringen av et regnskap.
 
-#) Alle regnskaper skal være innlevert senest tre uker før
-   generalforsamling påfølgende semester. Blir ikke regnskapene
-   godkjent på generalforsamlingen, skal Økonomiutvalget inndra alle
-   bilag og fullføre regnskapet. Det kan gis dispensasjon til avvik
-   fra dette punkt av Hovedstyret i samarbeid med Revisjons- og
-   Økonomiutvalget.
-
 #) På Generalforsamlingen skal Revisjonsutvalget legge fram
    revisjonsberetningen, som kan være skrevet av Revisjonsutvalget
    selv eller, hvis Hovedstyret finner det nødvendig, en registrert
@@ -415,8 +411,9 @@ a) Bjørnegildet avholdes vårsemesteret hvert tredje år.
 #) Bjørnegildestyret består av gildesjef, sekretær, økonomiansvarlig
    og så mange medlemmer som generalforsamlingen finner nødvendig.
 
-#) Bjørnegildestyret har ansvaret for Bjørnegildets regnskap og
-   økonomistyring.
+#) Bjørnegildestyret har ansvaret for Bjørnegildets regnskap og 
+   økonomistyring. Økonomiansvarlig fører regnskapet i samarbeid med resten 
+   av Økonomiutvalget.
 
 #) Formannen i Realistforeningen har møte- og stemmerett i
    Bjørnegildestyret.
@@ -525,7 +522,7 @@ a) Generalforsamlingen er foreningens høyeste myndighet i spørsmål som
       #) Blæstsjef (§ 11 b)
       #) Kafesjef (§ 15 a)
       #) Leder av Økonomiutvalget (§ 16 a)
-      #) To medlemmer til Økonomiutvalget (§ 16 a)
+      #) Medlemmer til Økonomiutvalget (§ 16 a)
       #) Ett medlem til Desisjonsutvalget (§ 17 a)
       #) Ett medlem til Revisjonsutvalget (§ 18 a)
 
