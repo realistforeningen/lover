@@ -367,8 +367,7 @@ a) Vaktgruppa ledes av vaktgruppesjef som utpekes av Hovedstyret etter
 § 20 HUSBJØRNREDAKSJONEN
 ------------------------
 
-a) Husbjørnredaksjonen ledes av husbjørnredaktør, og kan knytte til
-   seg så mange medlemmer som husbjørnredaktør finner ønskelig.
+a) Husbjørnredaksjonen ledes av husbjørnredaktør.
 
 #) Husbjørnredaksjonen har ansvar for å utgi avisen Husbjørnen, Ursus
    Domesticus.
