@@ -176,9 +176,8 @@ a) Hovedstyret har følgende stemmeberettigede medlemmer: formann,
    tilstedeværende representanter med stemmerett i Hovedstyret har
    mottatt og godkjent protokollen.
 
-#) Hovedstyret skal innen en måned etter generalforsamlingen vedta en
-   instruks som spesifiserer arbeidsoppgavene og ansvarsområdene for
-   foreningens styrer, utvalg og verv.
+#) Hovedstyret vedtar og vedlikeholder en instruks som spesifiserer
+   arbeidsoppgavene og ansvarsområdene for foreningens styrer, utvalg og verv.
 
 
 § 12 ARRANGEMENTSSTYRET
