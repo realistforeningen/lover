@@ -258,7 +258,7 @@ a) Økonomiutvalget har seks medlemmer. Økonomiutvalgets leder velges
 
 #) Økonomiutvalgets medlemmer kan ikke samtidig være medlem av noen andre
    av de faste styrer og utvalg nevnt i § 7, komiteer nevnt i § 8, RF-Regis styre (§ 22) eller
-   Bjørnegildestyret (§ 23), eller inneha verv nevnt i § 11 f.. Unntakene er
+   Biørnegildestyret (§ 23), eller inneha verv nevnt i § 11 f.. Unntakene er
 
    I) Økonomiutvalgets leder, som er medlem i Hovedstyret,
    #) forretningsfører for RF-Regi, som er medlem i RF-Regi, og
@@ -303,7 +303,7 @@ a) Desisjonsutvalget har tre medlemmer: Det velges ett medlem på den
 
 #) Desisjonsutvalgets medlemmer kan ikke samtidig være medlem av noen andre
    av de faste styrer og utvalg nevnt i § 7, komiteer nevnt i § 8, RF-Regis styre (§ 22) eller
-   Bjørnegildestyret (§ 23), eller inneha verv nevnt i § 11 f.
+   Biørnegildestyret (§ 23), eller inneha verv nevnt i § 11 f.
 
 #) Desisjonsutvalget har den endelige avgjørelse i tvilsspørsmål om
    tolkning av lovene. Utvalget kan også fatte vedtak og gi regler i
@@ -401,23 +401,23 @@ a) RF-Regi er en undergruppe av Realistforeningen med egne lover, og
 #) Vervene regiformann og forretningsfører for RF-Regi fylles av
    henholdsvis leder og nestleder av RF-Regi.
 
-§ 23 BJØRNEGILDET
+§ 23 BIØRNEGILDET
 -----------------
 
-a) Bjørnegildet avholdes vårsemesteret hvert tredje år.
+a) Biørnegildet avholdes vårsemesteret hvert tredje år.
 
-#) Bjørnegildet ledes av et styre, hvis medlemmer velges av
-   generalforsamlingen seneste tre semestere før Bjørnegildet.
+#) Biørnegildet ledes av et styre, hvis medlemmer velges av
+   generalforsamlingen seneste tre semestere før Biørnegildet.
 
-#) Bjørnegildestyret består av gildesjef, sekretær, økonomiansvarlig
+#) Biørnegildestyret består av gildesjef, sekretær, økonomiansvarlig
    og så mange medlemmer som generalforsamlingen finner nødvendig.
 
-#) Bjørnegildestyret har ansvaret for Bjørnegildets regnskap og 
+#) Biørnegildestyret har ansvaret for Biørnegildets regnskap og 
    økonomistyring. Økonomiansvarlig fører regnskapet i samarbeid med resten 
    av Økonomiutvalget.
 
 #) Formannen i Realistforeningen har møte- og stemmerett i
-   Bjørnegildestyret.
+   Biørnegildestyret.
    
    
 GENERELLE BESTEMMELSER
