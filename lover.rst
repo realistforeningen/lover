@@ -114,10 +114,10 @@ av Økonomiutvalget.
 Alle faste styrer og utvalg nevnt i § 7, tillitsvalgte valgt av
 Generalforsamlingen og innehavere av verv oppnevnt av Hovedstyret
 iht. § 11 f, har ansvar for å lage og oppdatere erfaringsprotokoller
-for opplæring av etterfølgende innehavere av vervet og funksjonærer
-tilknyttet styret iht. § 11 f. Alle personer omfattet av første ledd
-har ansvar for at påtroppende vervinnehaver får den nødvendige
-opplæring for å inneha sitt verv. I denne sammenheng skal også disse
+for opplæring av etterfølgende tillitsvalgte, innehavere av verv og funksjonærer
+tilknyttet styret eller utvalget iht. § 11 g. Alle personer omfattet av første ledd
+har ansvar for at påtroppende tillitsvalgt eller vervinnehaver får den nødvendige
+opplæring for å inneha sin stilling. I denne sammenheng skal også disse
 tekster samt RFs lover gjennomgås.
 
 § 11 HOVEDSTYRET
@@ -149,15 +149,16 @@ a) Hovedstyret har følgende stemmeberettigede medlemmer: formann,
    skjenkemester, utlånsansvarlig, vaktmester, populærvitenskapelig
    ansvarlig, bedriftskontakt, donaldsjef, vaktgruppesjef,
    arrangementsmester, internansvarlig, vevmester, panikkansvarlig,
-   husbjørnredaktør, baffelmester og kordirigent. Hovedstyret kan
-   oppnevne andre verv etter behov. Hovedstyret kan avsette nevnte
-   verv.
+   husbjørnredaktør, baffelmester, korleder og kordirigent. Hovedstyret kan
+   oppnevne andre verv etter behov.  Hovedstyret kan avsette innehavere 
+   av nevnte verv.
 
-#) Hovedstyret kan bestemme at andre styrer, utvalg og komiteer selv
-   kan knytte til seg inntil et bestemt antall funksjonærer for å
-   utføre nærmere bestemte oppgaver. Funksjonærer blir regnet som
-   medlemmer av gjeldende styrer og utvalg, dog uten stemmerett.
-
+#) Hovedstyret kan bestemme at andre styrer, utvalg og komiteer selv kan 
+   knytte til seg inntil et bestemt antall funksjonærer for å utføre 
+   nærmere bestemte oppgaver. Funksjonærer blir regnet som medlemmer av 
+   gjeldende styrer og utvalg, dog uten stemmerett. Hovedstyret kan avsette 
+   funksjonærer.
+   
 #) Innkalling til Hovedstyremøte med foreløpig dagsorden skal være
    skriftlig og offentliggjort minst tre dager før møtet, med mindre
    det er spesielle tungtveiende hensyn. Innkallingen skal
@@ -175,9 +176,8 @@ a) Hovedstyret har følgende stemmeberettigede medlemmer: formann,
    tilstedeværende representanter med stemmerett i Hovedstyret har
    mottatt og godkjent protokollen.
 
-#) Hovedstyret skal innen en måned etter generalforsamlingen vedta en
-   instruks som spesifiserer arbeidsoppgavene og ansvarsområdene for
-   foreningens styrer, utvalg og verv.
+#) Hovedstyret vedtar og vedlikeholder en instruks som spesifiserer
+   arbeidsoppgavene og ansvarsområdene for foreningens styrer, utvalg og verv.
 
 
 § 12 ARRANGEMENTSSTYRET
@@ -257,20 +257,23 @@ a) Økonomiutvalget har seks medlemmer. Økonomiutvalgets leder velges
 
 #) Økonomiutvalgets medlemmer kan ikke samtidig være medlem av noen andre
    av de faste styrer og utvalg nevnt i § 7, komiteer nevnt i § 8, RF-Regis styre (§ 22) eller
-   Bjørnegildestyret (§ 23), eller inneha verv nevnt i § 11 f.. Unntakene er
+   Biørnegildestyret (§ 23), eller inneha verv nevnt i § 11 f.. Unntakene er
 
    I) Økonomiutvalgets leder, som er medlem i Hovedstyret,
    #) forretningsfører for RF-Regi, som er medlem i RF-Regi, og
    #) økonomiansvarlig for Biørnegildet, som er medlem av Biørnegildestyret.
 
-#) Økonomiutvalget har ansvaret for Realistforeningens regnskap og for
-   å lære opp alle styrer, utvalg og komiteer i
-   økonomistyring. Økonomiutvalget kan pålegge styrer, utvalg og
-   komiteer å føre sine egne regnskap, men fører ellers alle
-   regnskap. Økonomiutvalget skal også kontrollere at foreningens
-   budsjett blir fulgt. I tilfelle budsjettsprekk, skal det aktuelle
-   styret, det aktuelle utvalget eller den aktuelle komiteen samt
+#) Økonomiutvalget har ansvaret for Realistforeningens regnskap og for å 
+   lære opp alle styrer, utvalg, komiteer og innehavere av verv nevnt i § 
+   11 f i økonomistyring. Økonomiutvalget skal også kontrollere at 
+   foreningens budsjett blir fulgt. I tilfelle budsjettsprekk, skal det 
+   aktuelle styret, det aktuelle utvalget eller den aktuelle komiteen samt 
    Hovedstyret, Revisjonsutvalget og Desisjonsutvalget informeres.
+   
+#) Regnskapet skal være ferdigstilt senest tre uker før generalforsamlingen 
+   påfølgende semester. Blir ikke regnskapet godkjent på 
+   generalforsamlingen, skal eventuelle feil utbedres før regnskapet legges 
+   frem på nytt påfølgende ordinære generalforsamling.
 
 #) Revisjonsutvalget og ett medlem av Hovedstyret, i tillegg til
    Økonomiutvalgets leder, har møte-, tale-, og forslagsrett på
@@ -294,12 +297,12 @@ a) Desisjonsutvalget har tre medlemmer: Det velges ett medlem på den
    tre semestre.
 
 #) Valgbare er alle tidligere tillitsvalgte som nevnt i § 24 m, samt 
-   tidligere tillitsvalgte med vervene regiformann, forretningsfører for 
+   tidligere tillitsvalgte som regiformann, forretningsfører for 
    RF-Regi eller gildesjef.
 
 #) Desisjonsutvalgets medlemmer kan ikke samtidig være medlem av noen andre
    av de faste styrer og utvalg nevnt i § 7, komiteer nevnt i § 8, RF-Regis styre (§ 22) eller
-   Bjørnegildestyret (§ 23), eller inneha verv nevnt i § 11 f.
+   Biørnegildestyret (§ 23), eller inneha verv nevnt i § 11 f.
 
 #) Desisjonsutvalget har den endelige avgjørelse i tvilsspørsmål om
    tolkning av lovene. Utvalget kan også fatte vedtak og gi regler i
@@ -341,13 +344,6 @@ a) Revisjonsutvalget har tre medlemmer: Det velges ett medlem på den
    regnskaper. Minst to av revisjonsutvalgets medlemmer må delta i
    revideringen av et regnskap.
 
-#) Alle regnskaper skal være innlevert senest tre uker før
-   generalforsamling påfølgende semester. Blir ikke regnskapene
-   godkjent på generalforsamlingen, skal Økonomiutvalget inndra alle
-   bilag og fullføre regnskapet. Det kan gis dispensasjon til avvik
-   fra dette punkt av Hovedstyret i samarbeid med Revisjons- og
-   Økonomiutvalget.
-
 #) På Generalforsamlingen skal Revisjonsutvalget legge fram
    revisjonsberetningen, som kan være skrevet av Revisjonsutvalget
    selv eller, hvis Hovedstyret finner det nødvendig, en registrert
@@ -371,8 +367,7 @@ a) Vaktgruppa ledes av vaktgruppesjef som utpekes av Hovedstyret etter
 § 20 HUSBJØRNREDAKSJONEN
 ------------------------
 
-a) Husbjørnredaksjonen ledes av husbjørnredaktør, og kan knytte til
-   seg så mange medlemmer som husbjørnredaktør finner ønskelig.
+a) Husbjørnredaksjonen ledes av husbjørnredaktør.
 
 #) Husbjørnredaksjonen har ansvar for å utgi avisen Husbjørnen, Ursus
    Domesticus.
@@ -384,12 +379,11 @@ a) Husbjørnredaksjonen ledes av husbjørnredaktør, og kan knytte til
 § 21 KORGRUPPA
 --------------
 
-a) Korgruppa ledes av kordirigent, og kan knytte til seg så mange
-   medlemmer som kordirigenten finner ønskelig.
+a) Korgruppa ledes av korleder.
 
-#) Korgruppa har ansvaret for å organisere korøvelser, drive
-   sangopplæring for foreningens medlemmer, og opptre med korsang ved
-   passende anledninger.
+#) Korleder og kordirigent har ansvaret for å organisere korøvelser, 
+   drive sangopplæring for foreningens medlemmer, og opptre med korsang 
+   ved passende anledninger.
 
 #) Korgruppa har ansvar for å rapportere regnskapsrelevant informasjon
    til Økonomiutvalget og overholde vedtatte budsjetter.
@@ -401,25 +395,26 @@ a) Korgruppa ledes av kordirigent, og kan knytte til seg så mange
 a) RF-Regi er en undergruppe av Realistforeningen med egne lover, og
    styres deretter.
 
-#) Vervene regiformann og forretningsfører for RF-Regi fylles av
+#) Stillingene som regiformann og forretningsfører for RF-Regi fylles av
    henholdsvis leder og nestleder av RF-Regi.
 
-§ 23 BJØRNEGILDET
+§ 23 BIØRNEGILDET
 -----------------
 
-a) Bjørnegildet avholdes vårsemesteret hvert tredje år.
+a) Biørnegildet avholdes vårsemesteret hvert tredje år.
 
-#) Bjørnegildet ledes av et styre, hvis medlemmer velges av
-   generalforsamlingen seneste tre semestere før Bjørnegildet.
+#) Biørnegildet ledes av et styre, hvis medlemmer velges av
+   generalforsamlingen seneste tre semestere før Biørnegildet.
 
-#) Bjørnegildestyret består av gildesjef, sekretær, økonomiansvarlig
+#) Biørnegildestyret består av gildesjef, sekretær, økonomiansvarlig
    og så mange medlemmer som generalforsamlingen finner nødvendig.
 
-#) Bjørnegildestyret har ansvaret for Bjørnegildets regnskap og
-   økonomistyring.
+#) Biørnegildestyret har ansvaret for Biørnegildets regnskap og 
+   økonomistyring. Økonomiansvarlig fører regnskapet i samarbeid med resten 
+   av Økonomiutvalget.
 
 #) Formannen i Realistforeningen har møte- og stemmerett i
-   Bjørnegildestyret.
+   Biørnegildestyret.
    
    
 GENERELLE BESTEMMELSER
@@ -525,7 +520,7 @@ a) Generalforsamlingen er foreningens høyeste myndighet i spørsmål som
       #) Blæstsjef (§ 11 b)
       #) Kafesjef (§ 15 a)
       #) Leder av Økonomiutvalget (§ 16 a)
-      #) To medlemmer til Økonomiutvalget (§ 16 a)
+      #) Medlemmer til Økonomiutvalget (§ 16 a)
       #) Ett medlem til Desisjonsutvalget (§ 17 a)
       #) Ett medlem til Revisjonsutvalget (§ 18 a)
 
