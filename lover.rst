@@ -150,8 +150,8 @@ a) Hovedstyret har følgende stemmeberettigede medlemmer: formann,
    ansvarlig, bedriftskontakt, donaldsjef, vaktgruppesjef,
    arrangementsmester, internansvarlig, vevmester, panikkansvarlig,
    husbjørnredaktør, baffelmester og kordirigent. Hovedstyret kan
-   oppnevne andre verv etter behov. Hovedstyret kan avsette nevnte
-   verv.
+   oppnevne andre verv etter behov.  Hovedstyret kan avsette innehavere 
+   av nevnte verv.
 
 #) Hovedstyret kan bestemme at andre styrer, utvalg og komiteer selv kan 
    knytte til seg inntil et bestemt antall funksjonærer for å utføre 
