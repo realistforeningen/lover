@@ -109,7 +109,7 @@ av budsjettrammer i de respektive styrer, utvalg og komiteer behandles
 av Økonomiutvalget.
 
 § 10 ERFARINGSOVERFØRING
------------------------
+------------------------
 
 Alle faste styrer og utvalg nevnt i § 7, tillitsvalgte valgt av
 Generalforsamlingen og innehavere av verv oppnevnt av Hovedstyret
