@@ -10,7 +10,7 @@ Lovendringsforslag tas imot som pull requests. Hold hele lovendringen
 som én commit, og skriv bakgrunnen for forslaget i commit-meldinga
 (som `her <https://github.com/realistforeningen/lover/commit/fbab7fe9ebb1ba1144e53ea6ee942e559fceaf1b>`_).
 
-Merk: Husk å oppdatere vedtatt-datoen til datoen for generalforsamlinge.
+Merk: Husk å oppdatere vedtatt-datoen til datoen for generalforsamlingen.
 
 Installering
 ============
