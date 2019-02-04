@@ -91,11 +91,11 @@ a) Hovedstyret (§ 11)
 ------------
 
 a) Foreningen kan ha en eller flere komiteer til å ta seg av oppgaver
-som faller utenfor de faste styrer og utvalgs virksomhet.
+   som faller utenfor de faste styrer og utvalgs virksomhet.
 #) Komiteer utnevnes og får sitt mandat av en generalforsamling eller
-Hovedstyret.
+   Hovedstyret.
 #) En komité har ansvar for å rapportere regnskapsrelevant informasjon
-til Økonomiutvalget og overholde vedtatte budsjetter.
+   til Økonomiutvalget og overholde vedtatte budsjetter.
 
 § 9 BUDSJETTER
 --------------
