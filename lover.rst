@@ -378,10 +378,10 @@ a) Husbjørnredaksjonen ledes av husbjørnredaktør.
    informasjon til Økonomiutvalget og overholde vedtatte budsjetter.
 
 
-§ 21 KORGRUPPA
+§ 21 URSI CANENTES
 --------------
 
-a) Korgruppa ledes av korstyret, som består av korsjef, kormestere, 
+a) Ursi Canentes ledes av korstyret, som består av korsjef, kormestere, 
    hoveddirigent og de øvrige styremedlemmer Hovedstyret måtte finne 
    nødvendig.
 
@@ -389,7 +389,7 @@ a) Korgruppa ledes av korstyret, som består av korsjef, kormestere,
    drive sangopplæring for foreningens medlemmer, og opptre med korsang 
    ved passende anledninger.
 
-#) Korgruppa har ansvar for å rapportere regnskapsrelevant informasjon
+#) Ursi Canentes har ansvar for å rapportere regnskapsrelevant informasjon
    til Økonomiutvalget og overholde vedtatte budsjetter.
    
    
