@@ -143,7 +143,9 @@ a) Hovedstyret har følgende stemmeberettigede medlemmer: formann,
 #) Hovedstyrets oppgave er å koordinere langsiktig virksomhet,
    godkjenne program, vedta budsjetter, utarbeide forslag til
    budsjettrammer for Generalforsamlingen og representere
-   Realistforeningen utad.
+   Realistforeningen utad. Om Realistforeningen mottar økonomisk 
+   støtte fra andre aktører, skal Hovedstyret påse at støtten 
+   anvendes til det formål støtten er gitt for.
 
 #) Hovedstyret oppnevner alle verv. Som verv er å regne:
    skjenkemester, utlånsansvarlig, vaktmester, populærvitenskapelig
