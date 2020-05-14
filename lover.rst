@@ -2,7 +2,7 @@
    REALISTFORENINGENS LOVER
 ===============================
 ----------------------
-Vedtatt 24. april 2019
+Vedtatt 13. mai 2020
 ----------------------
 
 
