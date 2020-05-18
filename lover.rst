@@ -379,7 +379,7 @@ a) Husbjørnredaksjonen ledes av husbjørnredaktør.
 
 
 § 21 URSI CANENTES
---------------
+------------------
 
 a) Ursi Canentes ledes av korstyret, som består av korsjef, kormestere, 
    hoveddirigent og de øvrige styremedlemmer Hovedstyret måtte finne 
