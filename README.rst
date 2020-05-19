@@ -27,4 +27,4 @@ Kompilere
 
 Etter at nye lovendringsforslag har blitt vedtatt og innlemmet i ``lover.rst``
 og ``lover-regi.rst``, må de kompileres og legges ut på nettsiden.
-``make all`` kompilerer ``lover.rst`` og ``lover.rst`` til html og pdf.
+``make all`` kompilerer ``lover.rst`` og ``lover-regi.rst`` til html og pdf.

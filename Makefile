@@ -13,12 +13,10 @@ endif
 all: lover.html lover-regi.html lover.pdf lover-regi.pdf
 
 lover.html: lover.rst lover.css
-	$(rst_to_html) --no-section-numbering --stylesheet=lover.css $< > $@
-	sed -i "" s/Contents/Innhold/ lover.html
+	$(rst_to_html) --no-section-numbering --stylesheet=lover.css $< | perl -pe "s/Contents/Innhold/" > $@
 
 lover-regi.html: lover-regi.rst lover.css
-	$(rst_to_html) --no-section-numbering --stylesheet=lover.css $< > $@
-	sed -i "" s/Contents/Innhold/ lover.html
+	$(rst_to_html) --no-section-numbering --stylesheet=lover.css $< | perl -pe "s/Contents/Innhold/" > $@
 
 lover.tex: lover.rst
 	$(rst_to_latex) --language=no --documentclass=scrartcl --documentoptions=a4paper,11pt --no-section-numbering $< > $@
