@@ -407,8 +407,10 @@ a) RF-Regi er en undergruppe av Realistforeningen med egne lover, og
 
 a) Biørnegildet avholdes vårsemesteret hvert tredje år.
 
-#) Biørnegildet ledes av et styre, hvis medlemmer velges av
-   generalforsamlingen seneste tre semestere før Biørnegildet.
+
+#) Biørnegildet ledes av et styre som opprettes av generalforsamlingen senest 
+   tre semestre før Biørnegildet avholdes. 
+   Styrets medlemmer velges av en generalforsamling.
 
 #) Biørnegildestyret består av gildesjef, sekretær, økonomiansvarlig
    og så mange medlemmer som generalforsamlingen finner nødvendig.
