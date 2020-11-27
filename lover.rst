@@ -2,7 +2,7 @@
    REALISTFORENINGENS LOVER
 ===============================
 ----------------------
-Vedtatt 13. mai 2020
+Vedtatt 11. november 2020
 ----------------------
 
 
@@ -407,8 +407,10 @@ a) RF-Regi er en undergruppe av Realistforeningen med egne lover, og
 
 a) Biørnegildet avholdes vårsemesteret hvert tredje år.
 
-#) Biørnegildet ledes av et styre, hvis medlemmer velges av
-   generalforsamlingen seneste tre semestere før Biørnegildet.
+
+#) Biørnegildet ledes av et styre som opprettes av generalforsamlingen senest 
+   tre semestre før Biørnegildet avholdes. 
+   Styrets medlemmer velges av en generalforsamling.
 
 #) Biørnegildestyret består av gildesjef, sekretær, økonomiansvarlig
    og så mange medlemmer som generalforsamlingen finner nødvendig.
@@ -532,8 +534,8 @@ a) Generalforsamlingen er foreningens høyeste myndighet i spørsmål som
 § 25 MISTILLIT
 --------------
 
-Foreningens medlemmer kan fremme mistillitsforslag mot tillitsvalgte
-som er valgt iht. § 24 m punkt 6, unntatt Desisjonsutvalget. Slike
+Foreningens medlemmer kan fremme mistillitsforslag mot tillitsvalgte som er 
+valgt iht. § 23 b) og 24 m) punkt 6, unntatt Desisjonsutvalget. Slike
 forslag kan bare behandles av en generalforsamling, og må være fremmet
 48 timer før generalforsamlingen. Mistillitsforslag vedtas med 2/3
 flertall. Dersom mistillitsforslaget mot et medlem av et organ blir
