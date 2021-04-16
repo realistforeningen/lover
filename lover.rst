@@ -160,7 +160,7 @@ a) Hovedstyret har følgende stemmeberettigede medlemmer: formann,
    nærmere bestemte oppgaver. Funksjonærer blir regnet som medlemmer av 
    gjeldende styrer og utvalg, dog uten stemmerett. Hovedstyret kan avsette 
    funksjonærer.
-   
+
 #) Innkalling til Hovedstyremøte med foreløpig dagsorden skal være
    skriftlig og offentliggjort minst tre dager før møtet, med mindre
    det er spesielle tungtveiende hensyn. Innkallingen skal
@@ -173,10 +173,10 @@ a) Hovedstyret har følgende stemmeberettigede medlemmer: formann,
 #) Hovedstyret er vedtaksdyktig når det er korrekt innkalt til møtet
    og minst 5 av representantene med stemmerett er til stede og saken
    vedtas med alminnelig flertall. Ved stemmelikhet teller formannens
-   stemme dobbelt. Det skal føres møteprotokoll fra hvert av møtene
+   stemme dobbelt. Det skal føres møtereferat fra hvert av møtene
    som godkjennes ved påfølgende hovedstyremøte eller etter at alle
    tilstedeværende representanter med stemmerett i Hovedstyret har
-   mottatt og godkjent protokollen.
+   mottatt og godkjent referatet.
 
 #) Hovedstyret vedtar og vedlikeholder en instruks som spesifiserer
    arbeidsoppgavene og ansvarsområdene for foreningens styrer, utvalg og verv.
