@@ -338,7 +338,7 @@ a) Revisjonsutvalget har tre medlemmer: Det velges ett medlem på den
    tre semestre.
 
 #) Revisjonsutvalgets medlemmer kan ikke samtidig være medlem av noen andre
-   av de faste styrer og utvalg nevnt i § 7 a–h, komiteer nevnt i § 8, 
+   av de faste styrer og utvalg nevnt i § 7 a–h, komiteer nevnt i § 8,
    RF-Regis styre (§ 22) eller Biørnegildestyret (§ 23), inneha verv nevnt i § 11 f eller ha vært medlem av 
    Økonomiutvalget foregående to semestre.
 
@@ -391,8 +391,8 @@ a) Ursi Canentes ledes av korstyret, som består av korsjef, kormestere,
 
 #) Ursi Canentes har ansvar for å rapportere regnskapsrelevant informasjon
    til Økonomiutvalget og overholde vedtatte budsjetter.
-   
-   
+
+
 § 22 RF-REGI
 ------------
 
@@ -408,12 +408,17 @@ a) RF-Regi er en undergruppe av Realistforeningen med egne lover, og
 a) Biørnegildet avholdes vårsemesteret hvert tredje år.
 
 
-#) Biørnegildet ledes av et styre som opprettes av generalforsamlingen senest 
-   tre semestre før Biørnegildet avholdes. 
-   Styrets medlemmer velges av en generalforsamling.
+#) Biørnegildet arrangeres av Biørnegildestyret. Biørnegildestyret ledes av en
+   styringsgruppe valgt av generalforsamlingen senest tre semestre før
+   Biørnegildet avholdes.
 
-#) Biørnegildestyret består av gildesjef, sekretær, økonomiansvarlig
-   og så mange medlemmer som generalforsamlingen finner nødvendig.
+#) Biørnegildets styringsgruppe består av gildesjef, sekretær og
+   økonomiansvarlig.
+
+#) Biørnegildets styringsgruppe kan selv bestemme Biørnegildestyrets størrelse
+   og sammensetning basert på festivalens konsept. Styringsgruppen kan også
+   avsette medlemmer av Biørnegildestyret på lik linje som Hovedstyret kan i
+   henhold til §11f.
 
 #) Biørnegildestyret har ansvaret for Biørnegildets regnskap og 
    økonomistyring. Økonomiansvarlig fører regnskapet i samarbeid med resten 
@@ -421,8 +426,8 @@ a) Biørnegildet avholdes vårsemesteret hvert tredje år.
 
 #) Formannen i Realistforeningen har møte- og stemmerett i
    Biørnegildestyret.
-   
-   
+
+
 GENERELLE BESTEMMELSER
 ======================
 
