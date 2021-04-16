@@ -424,8 +424,8 @@ a) Biørnegildet avholdes vårsemesteret hvert tredje år.
    økonomistyring. Økonomiansvarlig fører regnskapet i samarbeid med resten av
    Økonomiutvalget
 
-#) Formannen i Realistforeningen har møte- og stemmerett i
-   Biørnegildestyret.
+#) Formannen i Realistforeningen har møte- og stemmerett i Biørnegildets
+   styringsgruppe og Biørnegildestyret.
 
 
 GENERELLE BESTEMMELSER
