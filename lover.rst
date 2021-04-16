@@ -1,9 +1,9 @@
 ===============================
    REALISTFORENINGENS LOVER
 ===============================
--------------------------
-Vedtatt 11. november 2020
--------------------------
+----------------------
+Vedtatt 14. april 2021
+----------------------
 
 
 .. contents::
@@ -160,7 +160,7 @@ a) Hovedstyret har følgende stemmeberettigede medlemmer: formann,
    nærmere bestemte oppgaver. Funksjonærer blir regnet som medlemmer av 
    gjeldende styrer og utvalg, dog uten stemmerett. Hovedstyret kan avsette 
    funksjonærer.
-   
+
 #) Innkalling til Hovedstyremøte med foreløpig dagsorden skal være
    skriftlig og offentliggjort minst tre dager før møtet, med mindre
    det er spesielle tungtveiende hensyn. Innkallingen skal
@@ -173,10 +173,10 @@ a) Hovedstyret har følgende stemmeberettigede medlemmer: formann,
 #) Hovedstyret er vedtaksdyktig når det er korrekt innkalt til møtet
    og minst 5 av representantene med stemmerett er til stede og saken
    vedtas med alminnelig flertall. Ved stemmelikhet teller formannens
-   stemme dobbelt. Det skal føres møteprotokoll fra hvert av møtene
+   stemme dobbelt. Det skal føres møtereferat fra hvert av møtene
    som godkjennes ved påfølgende hovedstyremøte eller etter at alle
    tilstedeværende representanter med stemmerett i Hovedstyret har
-   mottatt og godkjent protokollen.
+   mottatt og godkjent referatet.
 
 #) Hovedstyret vedtar og vedlikeholder en instruks som spesifiserer
    arbeidsoppgavene og ansvarsområdene for foreningens styrer, utvalg og verv.
@@ -338,7 +338,7 @@ a) Revisjonsutvalget har tre medlemmer: Det velges ett medlem på den
    tre semestre.
 
 #) Revisjonsutvalgets medlemmer kan ikke samtidig være medlem av noen andre
-   av de faste styrer og utvalg nevnt i § 7 a–h, komiteer nevnt i § 8, 
+   av de faste styrer og utvalg nevnt i § 7 a–h, komiteer nevnt i § 8,
    RF-Regis styre (§ 22) eller Biørnegildestyret (§ 23), inneha verv nevnt i § 11 f eller ha vært medlem av 
    Økonomiutvalget foregående to semestre.
 
@@ -391,8 +391,8 @@ a) Ursi Canentes ledes av korstyret, som består av korsjef, kormestere,
 
 #) Ursi Canentes har ansvar for å rapportere regnskapsrelevant informasjon
    til Økonomiutvalget og overholde vedtatte budsjetter.
-   
-   
+
+
 § 22 RF-REGI
 ------------
 
@@ -408,21 +408,26 @@ a) RF-Regi er en undergruppe av Realistforeningen med egne lover, og
 a) Biørnegildet avholdes vårsemesteret hvert tredje år.
 
 
-#) Biørnegildet ledes av et styre som opprettes av generalforsamlingen senest 
-   tre semestre før Biørnegildet avholdes. 
-   Styrets medlemmer velges av en generalforsamling.
+#) Biørnegildet arrangeres av Biørnegildestyret. Biørnegildestyret ledes av en
+   styringsgruppe valgt av generalforsamlingen senest tre semestre før
+   Biørnegildet avholdes.
 
-#) Biørnegildestyret består av gildesjef, sekretær, økonomiansvarlig
-   og så mange medlemmer som generalforsamlingen finner nødvendig.
+#) Biørnegildets styringsgruppe består av gildesjef, sekretær og
+   økonomiansvarlig.
 
-#) Biørnegildestyret har ansvaret for Biørnegildets regnskap og 
-   økonomistyring. Økonomiansvarlig fører regnskapet i samarbeid med resten 
-   av Økonomiutvalget.
+#) Biørnegildets styringsgruppe kan selv bestemme Biørnegildestyrets størrelse
+   og sammensetning basert på festivalens konsept. Styringsgruppen kan også
+   avsette medlemmer av Biørnegildestyret på lik linje som Hovedstyret kan i
+   henhold til §11f.
 
-#) Formannen i Realistforeningen har møte- og stemmerett i
-   Biørnegildestyret.
-   
-   
+#) Biørnegildets styringsgruppe har ansvaret for Biørnegildets regnskap og
+   økonomistyring. Økonomiansvarlig fører regnskapet i samarbeid med resten av
+   Økonomiutvalget
+
+#) Formannen i Realistforeningen har møte- og stemmerett i Biørnegildets
+   styringsgruppe og Biørnegildestyret.
+
+
 GENERELLE BESTEMMELSER
 ======================
 
