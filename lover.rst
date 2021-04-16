@@ -420,9 +420,9 @@ a) Biørnegildet avholdes vårsemesteret hvert tredje år.
    avsette medlemmer av Biørnegildestyret på lik linje som Hovedstyret kan i
    henhold til §11f.
 
-#) Biørnegildestyret har ansvaret for Biørnegildets regnskap og 
-   økonomistyring. Økonomiansvarlig fører regnskapet i samarbeid med resten 
-   av Økonomiutvalget.
+#) Biørnegildets styringsgruppe har ansvaret for Biørnegildets regnskap og
+   økonomistyring. Økonomiansvarlig fører regnskapet i samarbeid med resten av
+   Økonomiutvalget
 
 #) Formannen i Realistforeningen har møte- og stemmerett i
    Biørnegildestyret.
