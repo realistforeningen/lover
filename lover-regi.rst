@@ -60,17 +60,21 @@ STYRET OG UTVALG
 
 a)  Styret i RF-Regi består av: regiformann, forretningsfører, DJ-sjef og Realistforeningens formann.
 
-#)  Regiformann og forretningsfører velges på generalforsamling for ett år; regiformann om våren, forretningsfører om høsten. Realistforeningens formann er Realistforeningens representant. Styret kan tilknytte seg det antall funksjonærer styret finner nødvendig.
+#)  Regiformann velges på vårens generalforsamling og sitter for ett år. Regiformann er foreningens daglige leder og styreleder.
 
-#)  DJ-sjef velges på generalforsamling og sitter for ett semester.
+#)  Forretningsfører velges på høstens generalforsamling og sitter for ett år. Forretningsfører er ansvarlig for foreningens økonomi og er foreningens nestleder.
 
-#)  Regiformann er foreningens daglige leder og styreleder.
+#)  Utleieansvarlig velges på generalforsamling og sitter for ett semester. Utleieansvarlig har overordnet ansvar for drift av RF-Regis utleievirksomhet.
 
-#)  Forretningsfører er foreningens nestleder.
+#)  DJ-sjef velges på generalforsamling og sitter for ett semester. DJ-sjef er ansvarlig for daglig drift av DJ-gruppen.
+
+#)  Realistforeningens formann er Realistforeningens representant i styret.
 
 #)  Regiformann og forretningsfører tegner sammen for foreningen.
 
-#)  Styrets oppgave er å koordinere langsiktig virksomhet, godkjenne innkjøp og representere foreningen utad.
+#)  Styrets oppgave er å koordinere langsiktig virksomhet, vedlikeholde utstyr, godkjenne innkjøp og representere foreningen utad.
+
+#)  Styret kan tilknytte seg det antall funksjonærer styret finner nødvendig.
 
 
 § 9 ERFARINGSOVERFØRING
@@ -150,9 +154,11 @@ a)	Generalforsamlingen er foreningens høyeste myndighet i spørsmål som ikke k
 
 			a) Regiformann (§ 8 b)
 			
-			#) Foretningsfører (§ 8 b)
+			#) Foretningsfører (§ 8 c)
 			
-			#) DJ-sjef (§ 8 c)
+			#) Utleieansvarlig  (§ 8 d)
+			
+			#) DJ-sjef (§ 8 e)
 
 
 § 14 MISTILLIT
