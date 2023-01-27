@@ -180,6 +180,8 @@ a) Hovedstyret har følgende stemmeberettigede medlemmer: formann,
 
 #) Hovedstyret vedtar og vedlikeholder en instruks som spesifiserer
    arbeidsoppgavene og ansvarsområdene for foreningens styrer, utvalg og verv.
+   I tilegg skal Hovedstyret oppreholde retningslinjer ved seksuelltrakasering i Realistforeningen, hvor eventuelle endringer skal orienteres om på generalforsamlingen. 
+   Generalforsamlingen kan så velge å avvise endringen med allminnelig flertall. 
 
 
 § 12 ARRANGEMENTSSTYRET
@@ -289,6 +291,8 @@ a) Økonomiutvalget har seks medlemmer. Økonomiutvalgets leder velges
    Hovedstyre er valgt dersom det sittende ikke kan funksjonere. Ingen
    utbetalinger, med unntak av utestående fordringer, skal skje før en
    generalforsamling er avholdt.
+
+#) Økonomiutvalget skal internkonstituere en egen nestleder som kan fungere som ØU-leders stedfortreder ved behov. 
 
 
 § 17 DESISJONSUTVALGET
