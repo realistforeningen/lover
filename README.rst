@@ -1,13 +1,13 @@
 ========================
-Realistforeningens lover
+RF-Regis lover
 ========================
 
 
 Lovendringer
 ============
 
-Lovendringsforslag tas imot som pull requests. Hold hele lovendringen
-som én commit, og skriv bakgrunnen for forslaget i commit-meldinga
+Lovendringsforslag tas imot som pull requests til Realistforeningens repo. Dette er bare en fork. 
+Hold hele lovendringen som én commit, og skriv bakgrunnen for forslaget i commit-meldinga
 (som `her <https://github.com/realistforeningen/lover/commit/fbab7fe9ebb1ba1144e53ea6ee942e559fceaf1b>`_).
 
 Merk: Husk å oppdatere vedtatt-datoen til datoen for generalforsamlingen.
