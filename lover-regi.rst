@@ -2,7 +2,7 @@
    RF-REGIS LOVER
 ===============================
 ------------------------
-Vedtatt 18. april 2018
+Vedtatt 19. april 2023
 ------------------------
 
 
@@ -62,9 +62,9 @@ a)  Styret i RF-Regi består av: regiformann, forretningsfører, DJ-sjef og Real
 
 #)  Regiformann velges på vårens generalforsamling og sitter for ett år. Regiformann er foreningens daglige leder og styreleder.
 
-#)  Forretningsfører velges på høstens generalforsamling og sitter for ett år. Forretningsfører er ansvarlig for foreningens økonomi og er foreningens nestleder.
+#)  Forretningsfører velges på høstens generalforsamling og sitter for ett år. Forretningsfører er ansvarlig for foreningens økonomi.
 
-#)  Utleieansvarlig velges på generalforsamling og sitter for ett semester. Utleieansvarlig har overordnet ansvar for drift av RF-Regis utleievirksomhet.
+#)  Utleieansvarlig velges på generalforsamling og sitter for ett semester. Utleieansvarlig har overordnet ansvar for drift av RF-Regis utleievirksomhet og er foreningens nestleder.
 
 #)  DJ-sjef velges på generalforsamling og sitter for ett semester. DJ-sjef er ansvarlig for daglig drift av DJ-gruppen.
 
