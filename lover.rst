@@ -502,11 +502,21 @@ a) Generalforsamlingen er foreningens høyeste myndighet i spørsmål som
    medlemmer, med de innskrenkninger som følger av § 11 b, § 16 b, § 17 b
    og c og § 18 b.
 
-#) Valg på flere tillitsvalgte under ett avgjøres med alminnelig
-   flertall. Ved valg på en enkelt tillitsvalgt kan tre
-   stemmeberettigede kreve at valget skal avgjøres med absolutt
-   flertall. Oppnår ingen dette ved første avstemming, avholdes bundet
-   omvalg.
+#) Dersom det er like mange eller færre kandidater som det er antall plasser 
+   kan valget gjennomføres ved akklamasjon. Valget gjennomføres skriftlig ved
+   alminnelig flertall dersom 3 eller flere stemmeberettigede krever det. 
+   Valget kan avgjøres ved absolutt flertall, dersom 3 eller flere 
+   stemmeberettigede krever det.
+
+   Dersom det er flere kandidater til en plass og ingen kandidater oppnår mer 
+   enn halvparten av avgitte stemmer gjennomføres omvalg på de to kandidatene 
+   som fikk flest stemmer. Dersom 3 eller flere stemmeberettigede krever det 
+   gjennomføres valget ved absolutt flertall, dersom ingen av kandidatene 
+   oppnår nødvendig stemmetall gjennomføres omvalg med de to kandidatene som 
+   fikk flest stemmer. Omvalg avgjøres ved alminnelig flertall. Omvalg kan 
+   avgjøres ved absolutt flertall uten mulighet for nytt omvalg, dersom 3 eller
+   flere stemmeberettigede krever det.
+
 
 #) Tillitsvalgte har funksjonstid fra 1. januar til 30. juni på
    vårsemesteret og fra 1. juli til 31. desember på høstsemesteret.
