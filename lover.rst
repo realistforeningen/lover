@@ -149,7 +149,7 @@ a) Hovedstyret har følgende stemmeberettigede medlemmer: formann,
 
 #) Hovedstyret oppnevner alle verv. Som verv er å regne: 
    skjenkemester, utlånsansvarlig, vaktmester, populærvitenskapelig 
-   ansvarlig, bedriftskontakt, donaldsjef, vaktgruppeleder, 
+   ansvarlig, bedriftskontakt, donaldsjef, vaktgruppesjef, 
    arrangementsmester, internansvarlig, vevmester, panikkansvarlig,
    husbjørnredaktør, baffelmester, korsjef, hoveddirigent og kormester. 
    Hovedstyret kan oppnevne andre verv etter behov. Hovedstyret kan avsette 
@@ -188,7 +188,7 @@ a) Hovedstyret har følgende stemmeberettigede medlemmer: formann,
 -----------------------
 
 a) Arrangementsstyret ledes av arrangementssjef, og har følgende andre
-   medlemmer: regiformann, blæstsjef, vaktgruppeleder,
+   medlemmer: regiformann, blæstsjef, vaktgruppesjef,
    arrangementsmestere og kjellermester.
 
 #) Arrangementsstyret er ansvarlig for planlegging, koordinering og
@@ -236,7 +236,7 @@ a) Blæststyret ledes av blæstsjef, og har følgende andre medlemmer:
 
 a) Kjellerstyret ledes av kjellermester, og har følgende andre
    medlemmer: kafesjef, utlånsansvarlig, skjenkemestere, vaktmester,
-   baffelmestere og vaktgruppeleder.
+   baffelmestere og vaktgruppesjef.
 
 #) Kjellerstyret har ansvaret for den daglige drift av
    RF-kjelleren. Dette omfatter også utlån og vedlikehold av lokalene.
@@ -360,7 +360,7 @@ a) Revisjonsutvalget har tre medlemmer: Det velges ett medlem på den
 § 19 VAKTGRUPPA
 ---------------
 
-a) Vaktgruppa ledes av vaktgruppeleder som utpekes av Hovedstyret etter
+a) Vaktgruppa ledes av vaktgruppesjef som utpekes av Hovedstyret etter
    innstilling fra Vaktgruppa.
 
 #) Vaktgruppas oppgave er i samråd med Arrangementstyret og
