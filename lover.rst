@@ -2,7 +2,7 @@
    REALISTFORENINGENS LOVER
 ===============================
 ----------------------
-Vedtatt 9. nov 2022
+Vedtatt 22. nov 2023
 ----------------------
 
 
@@ -490,7 +490,9 @@ a) Generalforsamlingen er foreningens høyeste myndighet i spørsmål som
 
 #) Ethvert medlem kan på generalforsamlingen foreslå tatt opp saker
    utenom den oppsatte dagsorden. Generalforsamlingen kan ikke fatte
-   vedtak i slike saker.
+   vedtak i slike saker. Dersom Generalforsamlingen ser det som nødvnedig
+   å fatte vedtak i slike saker kan dagsorden åpnet med 2/3 flertall før
+   saken påbegynnes
 
 #) Generalforsamlingen kan med alminnelig flertall gi ikke-medlemmer
    møte- og talerett.
