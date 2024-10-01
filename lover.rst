@@ -2,7 +2,7 @@
    REALISTFORENINGENS LOVER
 ===============================
 ----------------------
-Vedtatt 22. nov 2023
+Vedtatt 17. april 2024
 ----------------------
 
 
@@ -341,10 +341,10 @@ a) Revisjonsutvalget har tre medlemmer: Det velges ett medlem på den
    ordinære generalforsamlingen i hvert semester, og funksjonstiden er
    tre semestre.
 
-#) Revisjonsutvalgets medlemmer kan ikke samtidig være medlem av noen andre
-   av de faste styrer og utvalg nevnt i § 7 a–h, komiteer nevnt i § 8,
+#) Revisjonsutvalgets medlemmer kan ikke samtidig være medlem av noen andre 
+   av de faste styrer og utvalg nevnt i § 7 a–h, komiteer nevnt i § 8, 
    RF-Regis styre (§ 22) eller Biørnegildestyret (§ 23), inneha verv nevnt i § 11 f eller ha vært medlem av 
-   Økonomiutvalget foregående to semestre.
+   Økonomiutvalget i tidligere semester hvor regnskapet ikke er godkjent av generalforsamlingen
 
 #) Revisjonsutvalgets oppgave er å revidere Realistforeningens
    regnskaper. Minst to av revisjonsutvalgets medlemmer må delta i
