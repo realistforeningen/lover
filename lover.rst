@@ -350,10 +350,14 @@ a) Revisjonsutvalget har tre medlemmer: Det velges ett medlem på den
    ordinære generalforsamlingen i hvert semester, og funksjonstiden er
    tre semestre.
 
-#) Revisjonsutvalgets medlemmer kan ikke samtidig være medlem av noen andre 
-   av de faste styrer og utvalg nevnt i § 7 a–h, komiteer nevnt i § 8, 
-   RF-Regis styre (§ 22) eller Biørnegildestyret (§ 23), inneha verv nevnt i § 11 f eller ha vært medlem av 
-   Økonomiutvalget i tidligere semester hvor regnskapet ikke er godkjent av generalforsamlingen
+#) Revisjonsutvalgets medlemmer kan ikke samtidig:
+   1) Inneha øvrige roller valgt av generalforsamlingen (§23b,c og §24m)
+   #) Være medlem av RF-Regi sitt styre (§22), Økonomiutvalget (§16), 
+      Desisjonsutvalget (§17) eller komiteer nevnt i §8
+   #) Inneha verv oppnevnt av Hovedstyret etter §11.f med økonomisk ansvar etter §11.j  
+      eller Biørnegildestyret(§23d).
+   #) Ha vært medlem av Økonomiutvalget i tidligere semester hvor regnskapet ikke er godkjent
+      av generalforsamlingen.
 
 #) Revisjonsutvalgets oppgave er å revidere Realistforeningens
    regnskaper. Minst to av revisjonsutvalgets medlemmer må delta i
