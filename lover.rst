@@ -417,7 +417,7 @@ a) Ursi Canentes ledes av korstyret, som består av korsjef, kormestere,
 a) RF-Regi er en undergruppe av Realistforeningen med egne lover, og
    styres deretter.
 
-#) Stillingene som regiformann og forretningsfører for RF-Regi fylles av
+#) Stillingene som regiformann og utleieansvarlig for RF-Regi fylles av
    henholdsvis leder og nestleder av RF-Regi.
 
 § 23 BIØRNEGILDET
