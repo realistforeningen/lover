@@ -189,10 +189,10 @@ a) Hovedstyret har følgende stemmeberettigede medlemmer: formann,
    tilstedeværende representanter med stemmerett i Hovedstyret har
    mottatt og godkjent referatet.
 
-#) Hovedstyret vedtar og vedlikeholder en instruks som spesifiserer
-   arbeidsoppgavene og ansvarsområdene for foreningens styrer, utvalg og verv.
-   I tilegg skal Hovedstyret oppreholde retningslinjer ved seksuelltrakasering i Realistforeningen, hvor eventuelle endringer skal orienteres om på generalforsamlingen. 
-   Generalforsamlingen kan så velge å avvise endringen med allminnelig flertall. 
+#) Hovedstyret vedlikeholder en instruks som spesifiserer arbeidsoppgaver, 
+   ansvarsområder, og økonomisk ansvar for foreningens styrer, utvalg og verv, 
+   samt er ansvarlig for at foreningens organer og innehavere av verv er kjent 
+   med innholdet i denne.
 
 
 § 12 ARRANGEMENTSSTYRET
