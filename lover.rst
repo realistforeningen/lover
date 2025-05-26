@@ -2,7 +2,7 @@
    REALISTFORENINGENS LOVER
 ===============================
 ----------------------
-Vedtatt 17. april 2024
+Vedtatt 23. april 2025
 ----------------------
 
 
