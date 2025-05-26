@@ -321,12 +321,11 @@ a) Desisjonsutvalget har tre medlemmer: Det velges ett medlem på den
    av de faste styrer og utvalg nevnt i § 7, komiteer nevnt i § 8, RF-Regis styre (§ 22) eller
    Biørnegildestyret (§ 23), eller inneha verv nevnt i § 11 f.
 
-#) Desisjonsutvalget har den endelige avgjørelse i tvilsspørsmål om
-   tolkning av lovene. Utvalget kan også fatte vedtak og gi regler i
-   situasjoner hvor lovene måtte vise seg å være
-   utilstrekkelige. Ethvert medlem av Realistforeningen har rett til å
-   innanke for Desisjonsutvalget vedtak hvor det kan være tvil om
-   lovligheten.
+#) Desisjonsutvalget har den endelige avgjørelse i tvilsspørsmål om tolkning av foreningens lover, 
+   retningslinjer og øvrige styringsdokumenter. Utvalget kan også fatte vedtak og gi regler 
+   i situasjoner hvor foreningens lover, retningslinjer eller øvrige styringsdokumenter 
+   måtte vise seg å være utilstrekkelige. Ethvert medlem av Realistforeningen har rett til 
+   å innanke for Desisjonsutvalget vedtak hvor det kan være tvil om lovligheten.
 
 #) Ved mistanke om misligheter kan Desisjonsutvalget suspendere
    medlemmer av styrer, utvalg og komiteer. Suspensjonen kan omfatte
