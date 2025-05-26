@@ -272,8 +272,11 @@ a) Økonomiutvalget har seks medlemmer. Økonomiutvalgets leder velges
 
 #) Økonomiutvalgets medlemmer kan ikke samtidig:
    1) Inneha øvrige roller valgt av generalforsamlingen (§23b,c og §24m)
-   #) Være medlem av RF-Regi sitt styre (§22), Desisjonsutvalget (§17), Revisjonsutvalget (§18) eller komiteer nevnt i §8.
-   #) Inneha verv oppnevnt av Hovedstyret etter §11.f eller Biørnegildestyret (§23d).
+   #) Være medlem av RF-Regi sitt styre (§22), Desisjonsutvalget (§17), 
+      Revisjonsutvalget (§18) eller komiteer nevnt i §8.
+   #) Inneha verv oppnevnt av Hovedstyret etter §11.f med økonomisk ansvar 
+      etter §11.j eller Biørnegildestyret (§23d).
+
 
 
 #) Økonomiutvalget har ansvaret for Realistforeningens regnskap og for å 
