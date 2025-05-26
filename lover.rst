@@ -2,7 +2,7 @@
    REALISTFORENINGENS LOVER
 ===============================
 ----------------------
-Vedtatt 17. april 2024
+Vedtatt 23. april 2025
 ----------------------
 
 
@@ -50,13 +50,24 @@ Medlemskontingent for livsvarige medlemmer er 10 ganger ordinær
 semesterkontingent. Æresmedlemmer utnevnes på generalforsamling med
 3/4 flertall. Alle kategorier medlemmer har samme rettigheter.
 
-§ 5 EKSKLUSJON
---------------
+§ 5 ETISKE RETNINGSLINJER OG SANKSJONSMULIGHETER
+------------------------------------------------
 
-Hovedstyret avgjør tvilsspørsmål om hvem som er berettiget til
-medlemsskap. Hovedstyret har anledning til å ekskludere et medlem som
-forser seg mot foreningens lover, eller viser utillatelig oppførsel på
-foreningens arrangementer eller øvrige virksomhet.
+Hovedstyret er ansvarlig for at alle aktører er kjent med 
+foreningens etiske retningslinjer, varslingsrutiner og varslingsplakaten.
+
+Ved kritikkverdige forhold i foreningen eller under foreningens 
+arrangementer skal dette kunne varsles i henhold til foreningens varslingsrutiner. 
+Ved brudd på norsk lov, foreningens lover eller retningslinjer 
+kan det ilegges sanksjoner i henhold til foreningens varslingsrutiner. 
+Alle sanksjoner gitt i henhold til foreningens varslingsrutiner 
+kan innankes til desisjonsutvalget.
+
+Hovedstyret avgjør tvilsspørsmål om hvem som er berettiget til medlemskap. 
+Hovedstyret har anledning til å ekskludere et medlem som forserer seg 
+mot foreningens lover, eller viser utillatelig oppførsel på foreningens arrangementer 
+eller øvrige virksomhet.
+
 
 § 6 OPPLØSNING
 --------------
@@ -178,10 +189,10 @@ a) Hovedstyret har følgende stemmeberettigede medlemmer: formann,
    tilstedeværende representanter med stemmerett i Hovedstyret har
    mottatt og godkjent referatet.
 
-#) Hovedstyret vedtar og vedlikeholder en instruks som spesifiserer
-   arbeidsoppgavene og ansvarsområdene for foreningens styrer, utvalg og verv.
-   I tilegg skal Hovedstyret oppreholde retningslinjer ved seksuelltrakasering i Realistforeningen, hvor eventuelle endringer skal orienteres om på generalforsamlingen. 
-   Generalforsamlingen kan så velge å avvise endringen med allminnelig flertall. 
+#) Hovedstyret vedlikeholder en instruks som spesifiserer arbeidsoppgaver, 
+   ansvarsområder, og økonomisk ansvar for foreningens styrer, utvalg og verv, 
+   samt er ansvarlig for at foreningens organer og innehavere av verv er kjent 
+   med innholdet i denne.
 
 
 § 12 ARRANGEMENTSSTYRET
@@ -235,7 +246,7 @@ a) Blæststyret ledes av blæstsjef, og har følgende andre medlemmer:
 ------------------
 
 a) Kjellerstyret ledes av kjellermester, og har følgende andre
-   medlemmer: kafesjef, utlånsansvarlig, skjenkemestere, vaktmester,
+   medlemmer: kafesjef, barsjef, utlånsansvarlig, skjenkemestere, vaktmester,
    baffelmestere og vaktgruppesjef.
 
 #) Kjellerstyret har ansvaret for den daglige drift av
@@ -259,13 +270,12 @@ a) Økonomiutvalget har seks medlemmer. Økonomiutvalgets leder velges
    Generalforsamlingen stemme inn ytterlige to medlemmer for perioder
    på ett semester.
 
-#) Økonomiutvalgets medlemmer kan ikke samtidig være medlem av noen andre
-   av de faste styrer og utvalg nevnt i § 7, komiteer nevnt i § 8, RF-Regis styre (§ 22) eller
-   Biørnegildestyret (§ 23), eller inneha verv nevnt i § 11 f. Unntakene er
-
-   I) Økonomiutvalgets leder, som er medlem i Hovedstyret,
-   #) forretningsfører for RF-Regi, som er medlem i RF-Regi, og
-   #) økonomiansvarlig for Biørnegildet, som er medlem av Biørnegildestyret.
+#) Økonomiutvalgets medlemmer kan ikke samtidig:
+   1) Inneha øvrige roller valgt av generalforsamlingen (§23b,c og §24m)
+   #) Være medlem av RF-Regi sitt styre (§22), Desisjonsutvalget (§17), 
+      Revisjonsutvalget (§18) eller komiteer nevnt i §8.
+   #) Inneha verv oppnevnt av Hovedstyret etter §11.f med økonomisk ansvar 
+      etter §11.j eller Biørnegildestyret (§23d).
 
 #) Økonomiutvalget har ansvaret for Realistforeningens regnskap og for å 
    lære opp alle styrer, utvalg, komiteer og innehavere av verv nevnt i § 
@@ -306,16 +316,16 @@ a) Desisjonsutvalget har tre medlemmer: Det velges ett medlem på den
    tidligere tillitsvalgte som regiformann, forretningsfører for 
    RF-Regi eller gildesjef.
 
-#) Desisjonsutvalgets medlemmer kan ikke samtidig være medlem av noen andre
-   av de faste styrer og utvalg nevnt i § 7, komiteer nevnt i § 8, RF-Regis styre (§ 22) eller
-   Biørnegildestyret (§ 23), eller inneha verv nevnt i § 11 f.
+#) Desisjonsutvalgets medlemmer kan ikke samtidig:
+   1) Inneha øvrige roller valgt av generalforsamlingen (§23b,c og §24m)
+   #) Være medlem av RF-Regi sitt styre (§22), Økonomiutvalget (§16), Revisjonsutvalget (§18) eller komiteer nevnt i §8
+   #) Inneha verv oppnevnt av Hovedstyret etter §11.f eller Biørnegildestyret(§23d).
 
-#) Desisjonsutvalget har den endelige avgjørelse i tvilsspørsmål om
-   tolkning av lovene. Utvalget kan også fatte vedtak og gi regler i
-   situasjoner hvor lovene måtte vise seg å være
-   utilstrekkelige. Ethvert medlem av Realistforeningen har rett til å
-   innanke for Desisjonsutvalget vedtak hvor det kan være tvil om
-   lovligheten.
+#) Desisjonsutvalget har den endelige avgjørelse i tvilsspørsmål om tolkning av foreningens lover, 
+   retningslinjer og øvrige styringsdokumenter. Utvalget kan også fatte vedtak og gi regler 
+   i situasjoner hvor foreningens lover, retningslinjer eller øvrige styringsdokumenter 
+   måtte vise seg å være utilstrekkelige. Ethvert medlem av Realistforeningen har rett til 
+   å innanke for Desisjonsutvalget vedtak hvor det kan være tvil om lovligheten.
 
 #) Ved mistanke om misligheter kan Desisjonsutvalget suspendere
    medlemmer av styrer, utvalg og komiteer. Suspensjonen kan omfatte
@@ -341,10 +351,14 @@ a) Revisjonsutvalget har tre medlemmer: Det velges ett medlem på den
    ordinære generalforsamlingen i hvert semester, og funksjonstiden er
    tre semestre.
 
-#) Revisjonsutvalgets medlemmer kan ikke samtidig være medlem av noen andre 
-   av de faste styrer og utvalg nevnt i § 7 a–h, komiteer nevnt i § 8, 
-   RF-Regis styre (§ 22) eller Biørnegildestyret (§ 23), inneha verv nevnt i § 11 f eller ha vært medlem av 
-   Økonomiutvalget i tidligere semester hvor regnskapet ikke er godkjent av generalforsamlingen
+#) Revisjonsutvalgets medlemmer kan ikke samtidig:
+   1) Inneha øvrige roller valgt av generalforsamlingen (§23b,c og §24m)
+   #) Være medlem av RF-Regi sitt styre (§22), Økonomiutvalget (§16), 
+      Desisjonsutvalget (§17) eller komiteer nevnt i §8
+   #) Inneha verv oppnevnt av Hovedstyret etter §11.f med økonomisk ansvar etter §11.j  
+      eller Biørnegildestyret(§23d).
+   #) Ha vært medlem av Økonomiutvalget i tidligere semester hvor regnskapet ikke er godkjent
+      av generalforsamlingen.
 
 #) Revisjonsutvalgets oppgave er å revidere Realistforeningens
    regnskaper. Minst to av revisjonsutvalgets medlemmer må delta i
@@ -403,7 +417,7 @@ a) Ursi Canentes ledes av korstyret, som består av korsjef, kormestere,
 a) RF-Regi er en undergruppe av Realistforeningen med egne lover, og
    styres deretter.
 
-#) Stillingene som regiformann og forretningsfører for RF-Regi fylles av
+#) Stillingene som regiformann og utleieansvarlig for RF-Regi fylles av
    henholdsvis leder og nestleder av RF-Regi.
 
 § 23 BIØRNEGILDET
@@ -446,10 +460,9 @@ a) Generalforsamlingen er foreningens høyeste myndighet i spørsmål som
    innkallingen ble offentliggjort har stemmerett på
    generalforsamlingen.
 
-   Generalforsamlingen er beslutningsdyktig når minst 1/10 av de
-   stemmeberettigede er tilstede. Samtidig er det tilstrekkelig med 50
-   stemmeberettigede på generalforsamlingen dersom foreningen har mer
-   enn 500 medlemmer.
+   Generalforsamlingen er beslutningsdyktig når minst 1/10 av de stemmeberettigede 
+   er til stede. Samtidig er det tilstrekkelig med 40 stemmeberettigede på generalforsamlingen 
+   dersom foreningen har mer enn 400 medlemmer.
 
 #) Ordinær generalforsamling avholdes i andre halvdel av hvert
    semester. Ekstraordinær generalforsamling avholdes når Hovedstyret
@@ -543,9 +556,10 @@ a) Generalforsamlingen er foreningens høyeste myndighet i spørsmål som
       #) Sekretær (§ 11 b)
       #) Arrangementsjef (§ 11 b)
       #) Fagsjef (§ 11 b)
-      #) Kjellermester (§ 11 b)
       #) Blæstsjef (§ 11 b)
+      #) Kjellermester (§ 11 b)
       #) Kafesjef (§ 15 a)
+      #) Barsjef (§ 15 a)
       #) Leder av Økonomiutvalget (§ 16 a)
       #) Medlemmer til Økonomiutvalget (§ 16 a)
       #) Ett medlem til Desisjonsutvalget (§ 17 a)
@@ -563,8 +577,23 @@ flertall. Dersom mistillitsforslaget mot et medlem av et organ blir
 vedtatt, kan generalforsamlingen vedta å holde nyvalg på samtlige
 medlemmer av organet for resten av hvert medlems funksjonstid.
 
+§ 26 DOKUMENTER
+---------------
+1) Ved kollisjonstilfeller skal følgende dokumenter ha forrang i denne rekkefølgen:
 
-§ 26 LOVENDRINGER
+   a) Realistforeningens lover
+   #) Realistforeningens øvrige styringsdokumenter
+   #) Realistforeningens retningslinjer
+
+#) Realistforeningens retningslinjer og styringsdokumenter opprettes og avvikles 
+   av generalforsamlingen.
+
+#) Realistforeningens retningslinjer og styringsdokumenter, unntatt foreningens lover, 
+   opprettholdes av foreningens hovedstyre, og kan endres etter godkjenning av 
+   Desisjonsutvalget eller generalforsamlingen.
+
+
+§ 27 LOVENDRINGER
 -----------------
 
 Forslag til lovendring skal bare behandles på ordinær
@@ -572,7 +601,7 @@ generalforsamling, og må få 2/3 flertall blant de tilstedeværende
 stemmeberettigede for å vedtas.
 
 
-§ 27 LOVERS GYLDIGHET
+§ 28 LOVERS GYLDIGHET
 ---------------------
 
 Disse lovene er gyldige fra den dag de blir vedtatt, slik at alle
