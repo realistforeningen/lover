@@ -120,8 +120,8 @@ a)	Generalforsamlingen er foreningens høyeste myndighet i spørsmål som ikke k
 
 	Alle medlemmer av RF-Regi som var innmeldt før innkallingen ble offentliggjort har stemmerett på generalforsamlingen.
 
-	Generalforsamlingen er beslutningsdyktig når minst 1/10 av de stemmeberettigede er til stede. Samtidig er det tilstrekkelig med 50 stemmeberettigede på generalforsamlingen dersom foreningen har mer enn 500 medlemmer.
-
+	Generalforsamlingen er beslutningsdyktig når minst 1/10 av de stemmeberettigede er til stede. Samtidig er det tilstrekkelig med 40 stemmeberettigede på generalforsamlingen dersom foreningen har mer enn 400 medlemmer.
+	
 #)	Ordinær generalforsamling avholdes etter Realistforeningens generalforsamling. Ekstraordinær generalforsamling avholdes når styret vedtar det eller det kreves av Desisjonsutvalget eller minst 1/10 av medlemmene, dog slik at 50 medlemmer er tilstrekkelig dersom foreningen har mer enn 500 medlemmer.
 
 #)	Innkallelse til ordinær og ekstraordinær generalforsamling må være offentliggjort minst 10 virkedager i forveien. Ved ordinær og ekstraordinær generalforsamling må forslag til foreløpig dagsorden være offentliggjort senest 5 virkedager i forveien. Som virkedag regnes alle dager i samme semester som ikke er helg, offentlig høytidsdag eller feriedag for studentene ved Det matematisk- naturvitenskapelige fakultet i henhold til fakultetets offisielle kalender. Generalforsamlinger innkalles av styret. Dersom dette ikke fungerer eller ikke etterkommer lovlige krav om at generalforsamling skal kalles inn, skal Desisjonsutvalget overta styrets plikter når det gjelder generalforsamlinger.
