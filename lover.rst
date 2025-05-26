@@ -50,13 +50,24 @@ Medlemskontingent for livsvarige medlemmer er 10 ganger ordinær
 semesterkontingent. Æresmedlemmer utnevnes på generalforsamling med
 3/4 flertall. Alle kategorier medlemmer har samme rettigheter.
 
-§ 5 EKSKLUSJON
---------------
+§ 5 ETISKE RETNINGSLINJER OG SANKSJONSMULIGHETER
+------------------------------------------------
 
-Hovedstyret avgjør tvilsspørsmål om hvem som er berettiget til
-medlemsskap. Hovedstyret har anledning til å ekskludere et medlem som
-forser seg mot foreningens lover, eller viser utillatelig oppførsel på
-foreningens arrangementer eller øvrige virksomhet.
+Hovedstyret er ansvarlig for at alle aktører er kjent med 
+foreningens etiske retningslinjer, varslingsrutiner og varslingsplakaten.
+
+Ved kritikkverdige forhold i foreningen eller under foreningens 
+arrangementer skal dette kunne varsles i henhold til foreningens varslingsrutiner. 
+Ved brudd på norsk lov, foreningens lover eller retningslinjer 
+kan det ilegges sanksjoner i henhold til foreningens varslingsrutiner. 
+Alle sanksjoner gitt i henhold til foreningens varslingsrutiner 
+kan innankes til desisjonsutvalget.
+
+Hovedstyret avgjør tvilsspørsmål om hvem som er berettiget til medlemskap. 
+Hovedstyret har anledning til å ekskludere et medlem som forserer seg 
+mot foreningens lover, eller viser utillatelig oppførsel på foreningens arrangementer 
+eller øvrige virksomhet.
+
 
 § 6 OPPLØSNING
 --------------
