@@ -460,10 +460,9 @@ a) Generalforsamlingen er foreningens høyeste myndighet i spørsmål som
    innkallingen ble offentliggjort har stemmerett på
    generalforsamlingen.
 
-   Generalforsamlingen er beslutningsdyktig når minst 1/10 av de
-   stemmeberettigede er tilstede. Samtidig er det tilstrekkelig med 50
-   stemmeberettigede på generalforsamlingen dersom foreningen har mer
-   enn 500 medlemmer.
+   Generalforsamlingen er beslutningsdyktig når minst 1/10 av de stemmeberettigede 
+   er til stede. Samtidig er det tilstrekkelig med 40 stemmeberettigede på generalforsamlingen 
+   dersom foreningen har mer enn 400 medlemmer.
 
 #) Ordinær generalforsamling avholdes i andre halvdel av hvert
    semester. Ekstraordinær generalforsamling avholdes når Hovedstyret
