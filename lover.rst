@@ -277,8 +277,6 @@ a) Økonomiutvalget har seks medlemmer. Økonomiutvalgets leder velges
    #) Inneha verv oppnevnt av Hovedstyret etter §11.f med økonomisk ansvar 
       etter §11.j eller Biørnegildestyret (§23d).
 
-
-
 #) Økonomiutvalget har ansvaret for Realistforeningens regnskap og for å 
    lære opp alle styrer, utvalg, komiteer og innehavere av verv nevnt i § 
    11 f i økonomistyring. Økonomiutvalget skal også kontrollere at 
