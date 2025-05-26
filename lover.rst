@@ -246,7 +246,7 @@ a) Blæststyret ledes av blæstsjef, og har følgende andre medlemmer:
 ------------------
 
 a) Kjellerstyret ledes av kjellermester, og har følgende andre
-   medlemmer: kafesjef, utlånsansvarlig, skjenkemestere, vaktmester,
+   medlemmer: kafesjef, barsjef, utlånsansvarlig, skjenkemestere, vaktmester,
    baffelmestere og vaktgruppesjef.
 
 #) Kjellerstyret har ansvaret for den daglige drift av
@@ -556,9 +556,10 @@ a) Generalforsamlingen er foreningens høyeste myndighet i spørsmål som
       #) Sekretær (§ 11 b)
       #) Arrangementsjef (§ 11 b)
       #) Fagsjef (§ 11 b)
-      #) Kjellermester (§ 11 b)
       #) Blæstsjef (§ 11 b)
+      #) Kjellermester (§ 11 b)
       #) Kafesjef (§ 15 a)
+      #) Barsjef (§ 15 a)
       #) Leder av Økonomiutvalget (§ 16 a)
       #) Medlemmer til Økonomiutvalget (§ 16 a)
       #) Ett medlem til Desisjonsutvalget (§ 17 a)
