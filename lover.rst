@@ -563,8 +563,23 @@ flertall. Dersom mistillitsforslaget mot et medlem av et organ blir
 vedtatt, kan generalforsamlingen vedta å holde nyvalg på samtlige
 medlemmer av organet for resten av hvert medlems funksjonstid.
 
+§ 26 DOKUMENTER
+---------------
+1) Ved kollisjonstilfeller skal følgende dokumenter ha forrang i denne rekkefølgen:
 
-§ 26 LOVENDRINGER
+   a) Realistforeningens lover
+   #) Realistforeningens øvrige styringsdokumenter
+   #) Realistforeningens retningslinjer
+
+#) Realistforeningens retningslinjer og styringsdokumenter opprettes og avvikles 
+   av generalforsamlingen.
+
+#) Realistforeningens retningslinjer og styringsdokumenter, unntatt foreningens lover, 
+   opprettholdes av foreningens hovedstyre, og kan endres etter godkjenning av 
+   Desisjonsutvalget eller generalforsamlingen.
+
+
+§ 27 LOVENDRINGER
 -----------------
 
 Forslag til lovendring skal bare behandles på ordinær
@@ -572,7 +587,7 @@ generalforsamling, og må få 2/3 flertall blant de tilstedeværende
 stemmeberettigede for å vedtas.
 
 
-§ 27 LOVERS GYLDIGHET
+§ 28 LOVERS GYLDIGHET
 ---------------------
 
 Disse lovene er gyldige fra den dag de blir vedtatt, slik at alle
