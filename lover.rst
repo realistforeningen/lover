@@ -316,9 +316,10 @@ a) Desisjonsutvalget har tre medlemmer: Det velges ett medlem på den
    tidligere tillitsvalgte som regiformann, forretningsfører for 
    RF-Regi eller gildesjef.
 
-#) Desisjonsutvalgets medlemmer kan ikke samtidig være medlem av noen andre
-   av de faste styrer og utvalg nevnt i § 7, komiteer nevnt i § 8, RF-Regis styre (§ 22) eller
-   Biørnegildestyret (§ 23), eller inneha verv nevnt i § 11 f.
+#) Desisjonsutvalgets medlemmer kan ikke samtidig:
+   1) Inneha øvrige roller valgt av generalforsamlingen (§23b,c og §24m)
+   #) Være medlem av RF-Regi sitt styre (§22), Økonomiutvalget (§16), Revisjonsutvalget (§18) eller komiteer nevnt i §8
+   #) Inneha verv oppnevnt av Hovedstyret etter §11.f eller Biørnegildestyret(§23d).
 
 #) Desisjonsutvalget har den endelige avgjørelse i tvilsspørsmål om tolkning av foreningens lover, 
    retningslinjer og øvrige styringsdokumenter. Utvalget kan også fatte vedtak og gi regler 
