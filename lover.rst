@@ -271,6 +271,7 @@ a) Økonomiutvalget har seks medlemmer. Økonomiutvalgets leder velges
    på ett semester.
 
 #) Økonomiutvalgets medlemmer kan ikke samtidig:
+
    1) Inneha øvrige roller valgt av generalforsamlingen (§23b,c og §24m)
    #) Være medlem av RF-Regi sitt styre (§22), Desisjonsutvalget (§17), 
       Revisjonsutvalget (§18) eller komiteer nevnt i §8.
@@ -317,6 +318,7 @@ a) Desisjonsutvalget har tre medlemmer: Det velges ett medlem på den
    RF-Regi eller gildesjef.
 
 #) Desisjonsutvalgets medlemmer kan ikke samtidig:
+
    1) Inneha øvrige roller valgt av generalforsamlingen (§23b,c og §24m)
    #) Være medlem av RF-Regi sitt styre (§22), Økonomiutvalget (§16), Revisjonsutvalget (§18) eller komiteer nevnt i §8
    #) Inneha verv oppnevnt av Hovedstyret etter §11.f eller Biørnegildestyret(§23d).
@@ -352,6 +354,7 @@ a) Revisjonsutvalget har tre medlemmer: Det velges ett medlem på den
    tre semestre.
 
 #) Revisjonsutvalgets medlemmer kan ikke samtidig:
+
    1) Inneha øvrige roller valgt av generalforsamlingen (§23b,c og §24m)
    #) Være medlem av RF-Regi sitt styre (§22), Økonomiutvalget (§16), 
       Desisjonsutvalget (§17) eller komiteer nevnt i §8
