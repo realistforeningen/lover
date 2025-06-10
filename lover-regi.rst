@@ -2,7 +2,7 @@
    RF-REGIS LOVER
 ===============================
 ------------------------
-Vedtatt 17. april 2024
+Vedtatt 23. april 2025
 ------------------------
 
 
@@ -58,7 +58,7 @@ STYRET OG UTVALG
 § 8 STYRET
 ----------
 
-a)  Styret i RF-Regi består av: regiformann, forretningsfører, DJ-sjef og Realistforeningens formann.
+a)  Styret i RF-Regi består av: regiformann, forretningsfører, utleieansvarlig, DJ-sjef og Realistforeningens formann.
 
 #)  Regiformann velges på vårens generalforsamling og sitter for ett år. Regiformann er foreningens daglige leder og styreleder.
 
@@ -120,7 +120,7 @@ a)	Generalforsamlingen er foreningens høyeste myndighet i spørsmål som ikke k
 
 	Alle medlemmer av RF-Regi som var innmeldt før innkallingen ble offentliggjort har stemmerett på generalforsamlingen.
 
-	Generalforsamlingen er beslutningsdyktig når minst 1/10 av de stemmeberettigede er til stede. Samtidig er det tilstrekkelig med 50 stemmeberettigede på generalforsamlingen dersom foreningen har mer enn 500 medlemmer.
+	Generalforsamlingen er beslutningsdyktig når minst 1/10 av de stemmeberettigede er til stede. Samtidig er det tilstrekkelig med 40 stemmeberettigede på generalforsamlingen dersom foreningen har mer enn 400 medlemmer.
 
 #)	Ordinær generalforsamling avholdes etter Realistforeningens generalforsamling. Ekstraordinær generalforsamling avholdes når styret vedtar det eller det kreves av Desisjonsutvalget eller minst 1/10 av medlemmene, dog slik at 50 medlemmer er tilstrekkelig dersom foreningen har mer enn 500 medlemmer.
 
