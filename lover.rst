@@ -582,9 +582,9 @@ medlemmer av organet for resten av hvert medlems funksjonstid.
 
 § 26 DOKUMENTER
 ---------------
-1) Ved kollisjonstilfeller skal følgende dokumenter ha forrang i denne rekkefølgen:
+a) Ved kollisjonstilfeller skal følgende dokumenter ha forrang i denne rekkefølgen:
 
-   a) Realistforeningens lover
+   1) Realistforeningens lover
    #) Realistforeningens øvrige styringsdokumenter
    #) Realistforeningens retningslinjer
 
