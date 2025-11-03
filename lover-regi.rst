@@ -20,7 +20,7 @@ FORMÅL OG ORGANISASJON
 RF-Regi er en undergruppe av Realistforeningen, fakultetsforening ved Det matematisk-naturvitenskapelig fakultetet, Universitetet i Oslo.
 
 § 2 NAVN OG FORMÅL
-----------
+------------------
 Foreningens navn er RF-Regi. RF-Regis formål er å drifte og vedlikeholde lyd- og lyssystemer, samt bedrive utleie av disse til de andre foreningene ved Universitetet i Oslo
 
 § 3 UTBYTTE
