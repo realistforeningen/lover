@@ -28,7 +28,12 @@ drøfte spørsmål av almenn og faglig art, å øke kameratskapet mellom
 studentene og styrke miljøet ved fakultetet ved selskapelige samvær,
 ekskursjoner og andre tiltak.
 
-§ 3 UTBYTTE
+§ 3 Språk
+---------
+
+Realistforeningen sitt offisielle språk er norsk.
+
+§ 4 UTBYTTE
 -----------
 
 Realistforeningen er en ideell organisasjon som ikke betaler ut
@@ -37,7 +42,7 @@ med noe overskudd ut over det som kreves for å opprettholde den
 driften som Generalforsamlingen ønsker av foreningen. Et eventuelt
 overskudd går inn i egenkapitalen til foreningen.
 
-§ 4 MEDLEMSKAP
+§ 5 MEDLEMSKAP
 --------------
 
 Realistforeningen har tre kategorier medlemmer:
@@ -50,7 +55,7 @@ Medlemskontingent for livsvarige medlemmer er 10 ganger ordinær
 semesterkontingent. Æresmedlemmer utnevnes på generalforsamling med
 3/4 flertall. Alle kategorier medlemmer har samme rettigheter.
 
-§ 5 ETISKE RETNINGSLINJER OG SANKSJONSMULIGHETER
+§ 6 ETISKE RETNINGSLINJER OG SANKSJONSMULIGHETER
 ------------------------------------------------
 
 Hovedstyret er ansvarlig for at alle aktører er kjent med 
@@ -69,7 +74,7 @@ mot foreningens lover, eller viser utillatelig oppførsel på foreningens arrang
 eller øvrige virksomhet.
 
 
-§ 6 OPPLØSNING
+§ 7 OPPLØSNING
 --------------
 
 Går en generalforsamling inn for å oppløse foreningen, skal
@@ -82,23 +87,23 @@ over foreningens aktiva.
 STYRER OG UTVALG
 ======================
 
-§ 7 STYRER OG UTVALG
+§ 8 STYRER OG UTVALG
 --------------------
 
 Realistforeningen har følgende faste styrer og utvalg:
 
-a) Hovedstyret (§ 11)
-#) Arrangementstyret (§ 12)
-#) Fagstyret (§ 13)
-#) Blæststyret (§ 14)
-#) Kjellerstyret (§ 15)
-#) Økonomiutvalget (§ 16)
-#) Desisjonsutvalget (§ 17)
-#) Revisjonsutvalget (§ 18)
-#) Vaktgruppa (§ 19)
-#) Husbjørnredaksjonen (§ 20)
+a) Hovedstyret (§ 12)
+#) Arrangementstyret (§ 13)
+#) Fagstyret (§ 14)
+#) Blæststyret (§ 15)
+#) Kjellerstyret (§ 16)
+#) Økonomiutvalget (§ 17)
+#) Desisjonsutvalget (§ 18)
+#) Revisjonsutvalget (§ 19)
+#) Vaktgruppa (§ 20)
+#) Husbjørnredaksjonen (§ 21)
 
-§ 8 KOMITEER
+§ 9 KOMITEER
 ------------
 
 a) Foreningen kan ha en eller flere komiteer til å ta seg av oppgaver
@@ -108,8 +113,8 @@ a) Foreningen kan ha en eller flere komiteer til å ta seg av oppgaver
 #) En komité har ansvar for å rapportere regnskapsrelevant informasjon
    til Økonomiutvalget og overholde vedtatte budsjetter.
 
-§ 9 BUDSJETTER
---------------
+§ 10 BUDSJETTER
+---------------
 
 Generalforsamlingen vedtar budsjettrammer alle styrer, utvalg og
 komiteer skal følge. Detaljerte budsjettforslag skal utarbeides av
@@ -119,19 +124,19 @@ tråd med budsjettrammene og godkjennes av Hovedstyret. Overskridelser
 av budsjettrammer i de respektive styrer, utvalg og komiteer behandles
 av Økonomiutvalget.
 
-§ 10 ERFARINGSOVERFØRING
+§ 11 ERFARINGSOVERFØRING
 ------------------------
 
-Alle faste styrer og utvalg nevnt i § 7, tillitsvalgte valgt av
+Alle faste styrer og utvalg nevnt i § 8, tillitsvalgte valgt av
 Generalforsamlingen og innehavere av verv oppnevnt av Hovedstyret
-iht. § 11 f, har ansvar for å lage og oppdatere erfaringsprotokoller
+iht. § 12 f, har ansvar for å lage og oppdatere erfaringsprotokoller
 for opplæring av etterfølgende tillitsvalgte, innehavere av verv og funksjonærer
-tilknyttet styret eller utvalget iht. § 11 g. Alle personer omfattet av første ledd
+tilknyttet styret eller utvalget iht. § 12 g. Alle personer omfattet av første ledd
 har ansvar for at påtroppende tillitsvalgt eller vervinnehaver får den nødvendige
 opplæring for å inneha sin stilling. I denne sammenheng skal også disse
 tekster samt RFs lover gjennomgås.
 
-§ 11 HOVEDSTYRET
+§ 12 HOVEDSTYRET
 ----------------
 
 a) Hovedstyret har følgende stemmeberettigede medlemmer: formann,
@@ -140,11 +145,11 @@ a) Hovedstyret har følgende stemmeberettigede medlemmer: formann,
 
 #) Hovedstyrets stemmeberettigede velges på generalforsamling for ett
    semester. Unntakene er leder av Økonomiutvalget som velges
-   iht. § 16 a og regiformann som velges på RF-Regi sin
+   iht. § 17 a og regiformann som velges på RF-Regi sin
    generalforsamling. Alle medlemmene velges ved særskilt valg og må
    ha vært med i minst ett av Realistforeningens styrer og utvalg
-   nevnt i § 7, tilknyttet øvrige grupperinger (§§ 21-23) eller innehatt 
-   verv nevnt i § 11 f minst ett semester tidligere.
+   nevnt i § 8, tilknyttet øvrige grupperinger (§§ 21-23) eller innehatt 
+   verv nevnt i § 12 f minst ett semester tidligere.
 
 #) Sekretæren er formannens stedfortreder og fører referat fra
    Hovedstyrets møter.
@@ -198,7 +203,7 @@ a) Hovedstyret har følgende stemmeberettigede medlemmer: formann,
    med innholdet i denne.
 
 
-§ 12 ARRANGEMENTSSTYRET
+§ 13 ARRANGEMENTSSTYRET
 -----------------------
 
 a) Arrangementsstyret ledes av arrangementssjef, og har følgende andre
@@ -215,7 +220,7 @@ a) Arrangementsstyret ledes av arrangementssjef, og har følgende andre
    informasjon til Økonomiutvalget og overholde vedtatte budsjetter.
 
 
-§ 13 FAGSTYRET
+§ 14 FAGSTYRET
 --------------
 
 a) Fagstyret ledes av fagsjef, og har følgende andre medlemmer:
@@ -231,7 +236,7 @@ a) Fagstyret ledes av fagsjef, og har følgende andre medlemmer:
    informasjon til Økonomiutvalget og overholde vedtatte budsjetter.
 
 
-§ 14 BLÆSTSTYRET
+§ 15 BLÆSTSTYRET
 ----------------
 
 a) Blæststyret ledes av blæstsjef, og har følgende andre medlemmer:
@@ -245,7 +250,7 @@ a) Blæststyret ledes av blæstsjef, og har følgende andre medlemmer:
    informasjon til Økonomiutvalget og overholde vedtatte budsjetter.
 
 
-§ 15 KJELLERSTYRET
+§ 16 KJELLERSTYRET
 ------------------
 
 a) Kjellerstyret ledes av kjellermester, og har følgende andre
@@ -259,7 +264,7 @@ a) Kjellerstyret ledes av kjellermester, og har følgende andre
    informasjon til Økonomiutvalget og overholde vedtatte budsjetter.
 
 
-§ 16 ØKONOMIUTVALGET
+§ 17 ØKONOMIUTVALGET
 --------------------
 
 a) Økonomiutvalget har seks ordinært medlemmer. Økonomiutvalgets leder velges
@@ -276,15 +281,15 @@ a) Økonomiutvalget har seks ordinært medlemmer. Økonomiutvalgets leder velges
 
 #) Økonomiutvalgets medlemmer kan ikke samtidig:
 
-   1) Inneha øvrige roller valgt av generalforsamlingen (§23b,c og §24m)
-   #) Være medlem av RF-Regi sitt styre (§22), Desisjonsutvalget (§17), 
-      Revisjonsutvalget (§18) eller komiteer nevnt i §8.
-   #) Inneha verv oppnevnt av Hovedstyret etter §11.f med økonomisk ansvar 
-      etter §11.j eller Biørnegildestyret (§23d).
+   1) Inneha øvrige roller valgt av generalforsamlingen (§24b,c og §25m)
+   #) Være medlem av RF-Regi sitt styre (§23), Desisjonsutvalget (§18), 
+      Revisjonsutvalget (§19) eller komiteer nevnt i §9.
+   #) Inneha verv oppnevnt av Hovedstyret etter §12.f med økonomisk ansvar 
+      etter §12.j eller Biørnegildestyret (§24d).
 
 #) Økonomiutvalget har ansvaret for Realistforeningens regnskap og for å 
    lære opp alle styrer, utvalg, komiteer og innehavere av verv nevnt i § 
-   11 f i økonomistyring. Økonomiutvalget skal også kontrollere at 
+   12 f i økonomistyring. Økonomiutvalget skal også kontrollere at 
    foreningens budsjett blir fulgt. I tilfelle budsjettsprekk, skal det 
    aktuelle styret, det aktuelle utvalget eller den aktuelle komiteen samt 
    Hovedstyret, Revisjonsutvalget og Desisjonsutvalget informeres.
@@ -310,22 +315,22 @@ a) Økonomiutvalget har seks ordinært medlemmer. Økonomiutvalgets leder velges
 #) Økonomiutvalget skal internkonstituere en egen nestleder som kan fungere som ØU-leders stedfortreder ved behov. 
 
 
-§ 17 DESISJONSUTVALGET
+§ 18 DESISJONSUTVALGET
 ----------------------
 
 a) Desisjonsutvalget har tre medlemmer: Det velges ett medlem på den
    ordinære generalforsamlingen i hvert semester, og funksjonstiden er
    tre semestre.
 
-#) Valgbare er alle tidligere tillitsvalgte som nevnt i § 24 m, samt 
+#) Valgbare er alle tidligere tillitsvalgte som nevnt i § 25 m, samt 
    tidligere tillitsvalgte som regiformann, forretningsfører for 
    RF-Regi eller gildesjef.
 
 #) Desisjonsutvalgets medlemmer kan ikke samtidig:
 
-   1) Inneha øvrige roller valgt av generalforsamlingen (§23b,c og §24m)
-   #) Være medlem av RF-Regi sitt styre (§22), Økonomiutvalget (§16), Revisjonsutvalget (§18) eller komiteer nevnt i §8
-   #) Inneha verv oppnevnt av Hovedstyret etter §11.f eller Biørnegildestyret(§23d).
+   1) Inneha øvrige roller valgt av generalforsamlingen (§24b,c og §25m)
+   #) Være medlem av RF-Regi sitt styre (§23), Økonomiutvalget (§17), Revisjonsutvalget (§19) eller komiteer nevnt i §9
+   #) Inneha verv oppnevnt av Hovedstyret etter §12.f eller Biørnegildestyret(§24d).
 
 #) Desisjonsutvalget har den endelige avgjørelse i tvilsspørsmål om tolkning av foreningens lover, 
    retningslinjer og øvrige styringsdokumenter. Utvalget kan også fatte vedtak og gi regler 
@@ -350,7 +355,7 @@ a) Desisjonsutvalget har tre medlemmer: Det velges ett medlem på den
    tilgjengelige.
 
 
-§ 18 REVISJONSUTVALGET
+§ 19 REVISJONSUTVALGET
 ----------------------
 
 a) Revisjonsutvalget har tre medlemmer: Det velges ett medlem på den
@@ -359,11 +364,11 @@ a) Revisjonsutvalget har tre medlemmer: Det velges ett medlem på den
 
 #) Revisjonsutvalgets medlemmer kan ikke samtidig:
 
-   1) Inneha øvrige roller valgt av generalforsamlingen (§23b,c og §24m)
-   #) Være medlem av RF-Regi sitt styre (§22), Økonomiutvalget (§16), 
-      Desisjonsutvalget (§17) eller komiteer nevnt i §8
-   #) Inneha verv oppnevnt av Hovedstyret etter §11.f med økonomisk ansvar etter §11.j  
-      eller Biørnegildestyret(§23d).
+   1) Inneha øvrige roller valgt av generalforsamlingen (§24b,c og §25m)
+   #) Være medlem av RF-Regi sitt styre (§23), Økonomiutvalget (§17), 
+      Desisjonsutvalget (§18) eller komiteer nevnt i §9
+   #) Inneha verv oppnevnt av Hovedstyret etter §11.f med økonomisk ansvar etter §12.j  
+      eller Biørnegildestyret(§24d).
    #) Ha vært medlem av Økonomiutvalget i tidligere semester hvor regnskapet ikke er godkjent
       av generalforsamlingen.
 
@@ -379,7 +384,7 @@ a) Revisjonsutvalget har tre medlemmer: Det velges ett medlem på den
    opplyse Generalforsamlingen om eventuelle budsjettoverskridelser.
 
 
-§ 19 VAKTGRUPPA
+§ 20 VAKTGRUPPA
 ---------------
 
 a) Vaktgruppa ledes av vaktgruppesjef som utpekes av Hovedstyret etter
@@ -392,7 +397,7 @@ a) Vaktgruppa ledes av vaktgruppesjef som utpekes av Hovedstyret etter
 #) Vaktgruppa har ansvar for Vaktgruppas regnskap og økonomistyring.
 
 
-§ 20 HUSBJØRNREDAKSJONEN
+§ 21 HUSBJØRNREDAKSJONEN
 ------------------------
 
 a) Husbjørnredaksjonen ledes av husbjørnredaktør.
@@ -404,7 +409,7 @@ a) Husbjørnredaksjonen ledes av husbjørnredaktør.
    informasjon til Økonomiutvalget og overholde vedtatte budsjetter.
 
 
-§ 21 URSI CANENTES
+§ 22 URSI CANENTES
 ------------------
 
 a) Ursi Canentes ledes av korstyret, som består av korsjef, kormestere, 
@@ -419,7 +424,7 @@ a) Ursi Canentes ledes av korstyret, som består av korsjef, kormestere,
    til Økonomiutvalget og overholde vedtatte budsjetter.
 
 
-§ 22 RF-REGI
+§ 23 RF-REGI
 ------------
 
 a) RF-Regi er en undergruppe av Realistforeningen med egne lover, og
@@ -428,7 +433,7 @@ a) RF-Regi er en undergruppe av Realistforeningen med egne lover, og
 #) Stillingene som regiformann og utleieansvarlig for RF-Regi fylles av
    henholdsvis leder og nestleder av RF-Regi.
 
-§ 23 BIØRNEGILDET
+§ 24 BIØRNEGILDET
 -----------------
 
 a) Biørnegildet avholdes vårsemesteret hvert tredje år.
@@ -444,7 +449,7 @@ a) Biørnegildet avholdes vårsemesteret hvert tredje år.
 #) Biørnegildets styringsgruppe kan selv bestemme Biørnegildestyrets størrelse
    og sammensetning basert på festivalens konsept. Styringsgruppen kan også
    avsette medlemmer av Biørnegildestyret på lik linje som Hovedstyret kan i
-   henhold til §11f.
+   henhold til §12f.
 
 #) Biørnegildets styringsgruppe har ansvaret for Biørnegildets regnskap og
    økonomistyring. Økonomiansvarlig fører regnskapet i samarbeid med resten av
@@ -457,11 +462,11 @@ a) Biørnegildet avholdes vårsemesteret hvert tredje år.
 GENERELLE BESTEMMELSER
 ======================
 
-§ 24 GENERALFORSAMLING
+§ 25 GENERALFORSAMLING
 ----------------------
 
 a) Generalforsamlingen er foreningens høyeste myndighet i spørsmål som
-   ikke kommer inn under § 17 d første punktum.  Alle medlemmer av
+   ikke kommer inn under § 18 d første punktum.  Alle medlemmer av
    Realistforeningen har tale- og forslagsrett.
 
    Alle medlemmer av Realistforeningen som var innmeldt før
@@ -489,7 +494,7 @@ a) Generalforsamlingen er foreningens høyeste myndighet i spørsmål som
    dette ikke fungerer eller ikke etterkommer lovlige krav om at
    generalforsamling skal kalles inn, skal Desisjonsutvalget overta
    Hovedstyrets plikter når det gjelder generalforsamlinger, med
-   unntak av § 24 e.
+   unntak av § 25 e.
 
 #) Forslag om lovendringer og andre saker som ønskes tatt opp på
    generalforsamlingen må være Hovedstyret i hende og offentliggjøres
@@ -504,7 +509,7 @@ a) Generalforsamlingen er foreningens høyeste myndighet i spørsmål som
 #) Generalforsamlingen kan foreta endringer i rekkefølgen av punktene
    til det endelige forslag til dagsorden. Den kan også utelukke ett
    eller flere av de foreslåtte punkter så lenge det ikke strider mot
-   § 24 m. Den endelige dagsorden godkjennes av
+   § 25 m. Den endelige dagsorden godkjennes av
    generalforsamlingen. I forbindelse med godkjennelse av dagsorden
    skal det velges ordstyrer, referent og to medlemmer til å
    undertegne generalforsamlingens protokoll.
@@ -522,8 +527,8 @@ a) Generalforsamlingen er foreningens høyeste myndighet i spørsmål som
    tre stemmeberettigede krever det.
 
 #) Valgbare som tillitsvalgte i Realistforeningen er alle foreningens
-   medlemmer, med de innskrenkninger som følger av § 11 b, § 16 b, § 17 b
-   og c og § 18 b.
+   medlemmer, med de innskrenkninger som følger av § 12 b, § 17 b, § 18 b
+   og c og § 19 b.
 
 #) Dersom det er like mange eller færre kandidater som det er antall plasser 
    kan valget gjennomføres ved akklamasjon. Valget gjennomføres skriftlig ved
@@ -560,32 +565,32 @@ a) Generalforsamlingen er foreningens høyeste myndighet i spørsmål som
 
    #. Valg av tillitsvalgte:
 
-      a) Formann (§ 11 b)
-      #) Sekretær (§ 11 b)
-      #) Arrangementsjef (§ 11 b)
-      #) Fagsjef (§ 11 b)
-      #) Blæstsjef (§ 11 b)
-      #) Kjellermester (§ 11 b)
-      #) Kafesjef (§ 15 a)
-      #) Barsjef (§ 15 a)
-      #) Leder av Økonomiutvalget (§ 16 a)
-      #) Medlemmer til Økonomiutvalget (§ 16 a)
-      #) Ett medlem til Desisjonsutvalget (§ 17 a)
-      #) Ett medlem til Revisjonsutvalget (§ 18 a)
+      a) Formann (§ 12 b)
+      #) Sekretær (§ 12 b)
+      #) Arrangementsjef (§ 12 b)
+      #) Fagsjef (§ 12 b)
+      #) Blæstsjef (§ 12 b)
+      #) Kjellermester (§ 12 b)
+      #) Kafesjef (§ 16 a)
+      #) Barsjef (§ 16 a)
+      #) Leder av Økonomiutvalget (§ 17 a)
+      #) Medlemmer til Økonomiutvalget (§ 17 a)
+      #) Ett medlem til Desisjonsutvalget (§ 18 a)
+      #) Ett medlem til Revisjonsutvalget (§ 19 a)
 
 
-§ 25 MISTILLIT
+§ 26 MISTILLIT
 --------------
 
 Foreningens medlemmer kan fremme mistillitsforslag mot tillitsvalgte som er 
-valgt iht. § 23 b) og 24 m) punkt 6, unntatt Desisjonsutvalget. Slike
+valgt iht. § 24 b) og 25 m) punkt 6, unntatt Desisjonsutvalget. Slike
 forslag kan bare behandles av en generalforsamling, og må være fremmet
 48 timer før generalforsamlingen. Mistillitsforslag vedtas med 2/3
 flertall. Dersom mistillitsforslaget mot et medlem av et organ blir
 vedtatt, kan generalforsamlingen ved 2/3 flertall vedta å holde nyvalg på samtlige
 medlemmer av organet for resten av hvert medlems funksjonstid.
 
-§ 26 DOKUMENTER
+§ 27 DOKUMENTER
 ---------------
 a) Ved kollisjonstilfeller skal følgende dokumenter ha forrang i denne rekkefølgen:
 
@@ -601,7 +606,7 @@ a) Ved kollisjonstilfeller skal følgende dokumenter ha forrang i denne rekkefø
    Desisjonsutvalget eller generalforsamlingen.
 
 
-§ 27 LOVENDRINGER
+§ 28 LOVENDRINGER
 -----------------
 
 Forslag til lovendring skal bare behandles på ordinær
@@ -609,7 +614,7 @@ generalforsamling, og må få 2/3 flertall blant de tilstedeværende
 stemmeberettigede for å vedtas.
 
 
-§ 28 LOVERS GYLDIGHET
+§ 29 LOVERS GYLDIGHET
 ---------------------
 
 Disse lovene er gyldige fra den dag de blir vedtatt, slik at alle
