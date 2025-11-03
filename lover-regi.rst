@@ -176,4 +176,4 @@ Forslag til lovendring skal bare behandles på ordinær generalforsamling, og m�
 § 16 LOVERS GYLDIGHET
 ---------------------
 
-Disse lovene er gyldige fra den dag de blir vedtatt, slik at alle tidligere lover opphører å gjelde fra samme dag.
+Endringer i disse lover trer normalt i kraft når generalforsamlingen har ferdigbehandlet saken om lovendringer. Generalforsamlingen kan ved 2/3 kvalifisert flertall vedta at lovendringen skal tre i kraft på et senere tidspunkt.
