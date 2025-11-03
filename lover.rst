@@ -181,13 +181,15 @@ a) Hovedstyret har følgende stemmeberettigede medlemmer: formann,
    godkjenning av innkalling, og etter det kan bare et enstemmig
    Hovedstyre endre dagsorden.
 
-#) Hovedstyret er vedtaksdyktig når det er korrekt innkalt til møtet
-   og minst 5 av representantene med stemmerett er til stede og saken
-   vedtas med alminnelig flertall. Ved stemmelikhet teller formannens
-   stemme dobbelt. Det skal føres møtereferat fra hvert av møtene
-   som godkjennes ved påfølgende hovedstyremøte eller etter at alle
-   tilstedeværende representanter med stemmerett i Hovedstyret har
-   mottatt og godkjent referatet.
+#) Hovedstyret er vedtaksdyktig når det er korrekt innkalt til 
+   møtet og minst 5 av representantene med stemmerett er til 
+   stede. Saker i hovedstyret vedtas ved alminnelig flertall med 
+   mindre annet er bestemt i foreningens lover, retningslinjer 
+   eller øvrige styringsdokumenter. Ved stemmelikhet teller 
+   formannens stemme dobbelt. Det skal føres møtereferat fra hvert 
+   av møtene som godkjennes ved påfølgende hovedstyremøte eller 
+   etter at alle tilstedeværende representanter med stemmerett i 
+   Hovedstyret har mottatt og godkjent referatet.
 
 #) Hovedstyret vedlikeholder en instruks som spesifiserer arbeidsoppgaver, 
    ansvarsområder, og økonomisk ansvar for foreningens styrer, utvalg og verv, 
