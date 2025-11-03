@@ -480,8 +480,8 @@ a) Generalforsamlingen er foreningens høyeste myndighet i spørsmål som
 #) Ordinær generalforsamling avholdes i andre halvdel av hvert
    semester. Ekstraordinær generalforsamling avholdes når Hovedstyret
    vedtar det eller det kreves av Desisjonsutvalget eller minst 1/10
-   av medlemmene, dog slik at 50 medlemmer er tilstrekkelig dersom
-   foreningen har mer enn 500 medlemmer.
+   av medlemmene, dog slik at 40 medlemmer er tilstrekkelig dersom
+   foreningen har mer enn 400 medlemmer.
 
 #) Innkallelse til ordinær og ekstraordinær generalforsamling må være
    offentliggjort minst 10 virkedager i forveien. Ved ordinær og
