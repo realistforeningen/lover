@@ -174,13 +174,31 @@ a)	Generalforsamlingen er foreningens høyeste myndighet i spørsmål som ikke k
 Foreningens medlemmer kan fremme mistillitsforslag mot tillitsvalgte som er valgt ihht. §  14 k punkt 5. Slike forslag kan bare behandles av en generalforsamling, og må være fremmet 48 timer før generalforsamlingen. Mistillitsforslag vedtas med 2/3 flertall. Dersom mistillitsforslaget mot et medlem av styret blir vedtatt, kan generalforsamlingen 2/3 flertall vedta vedta å holde nyvalg på samtlige medlemmer av styret for resten av hvert medlems funksjonstid.
 
 
-§ 16 LOVENDRINGER
+§ 16 Dokumenter
+---------------
+
+a) Ved kollisjonstilfeller skal følgende dokumenter ha forrang i denne rekkefølgen:
+
+	1.	RF-regi sine lover
+
+	#.	Realistforeningens lover
+
+	#.	RF-regi sine øvrige styringsdokumenter
+
+	#.	RF-regi sine retningslinjer
+
+#)	RF-regi sine retningslinjer og styringsdokumenter opprettes og avvikles av generalforsamlingen.
+
+#)	RF-regi sine retningslinjer og styringsdokumenter, unntatt foreningens lover, opprettholdes av registyret, og kan endres etter godkjenning av Desisjonsutvalget eller generalforsamlingen.
+
+
+§ 17 LOVENDRINGER
 -----------------
 
 Forslag til lovendring skal bare behandles på ordinær generalforsamling, og må få 2/3 flertall blant de tilstedeværende stemmeberettigede for å vedtas.
 
 
-§ 17 LOVERS GYLDIGHET
+§ 18 LOVERS GYLDIGHET
 ---------------------
 
 Endringer i disse lover trer normalt i kraft når generalforsamlingen har ferdigbehandlet saken om lovendringer. Generalforsamlingen kan ved 2/3 kvalifisert flertall vedta at lovendringen skal tre i kraft på et senere tidspunkt.
