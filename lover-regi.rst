@@ -35,19 +35,26 @@ RF-Regi og Realistforeningen har felles medlemskap, så fremt det enkelte medlem
 
 Medlemskap i RF-regi tilbys alle medlemmer i Realistforeningen.
 
-§ 5 OPPLØSNING
+§ 5 ETISKE RETNINGSLINJER OG SANKSJONSMULIGHETER
+------------------------------------------------
+
+Registyret er ansvarlig for at alle aktører er kjent med foreningens etiske retningslinjer, varslingsrutiner og varslingsplakaten.
+
+Ved kritikkverdige forhold i foreningen eller under foreningens arrangementer skal dette kunne varsles i henhold til foreningens varslingsrutiner. Ved brudd på norsk lov, foreningens lover eller retningslinjer kan det ilegges sanksjoner i henhold til foreningens varslingsrutiner. Alle sanksjoner gitt i henhold til foreningens varslingsrutiner kan innankes til desisjonsutvalget.
+
+§ 6 OPPLØSNING
 --------------
 
 Går en generalforsamling inn for å oppløse foreningen, skal desisjonsutvalget tidligst tre uker og senest fire måneder senere innkalle til ekstraordinær generalforsamling hvor saken skal behandles på nytt. Dersom foreningen oppløses, disponerer Realistforeningen over foreningens aktiva.
 
-§ 6 VED OPPLØSNING
+§ 7 VED OPPLØSNING
 ------------------
 
 a)  Ved oppløsning av foreningen overføres alle eiendeler til Realistforeningen, og Realistforeningen tar over utleievirksomheten av utstyret.
 
 #)  Dersom Realistforeningen ikke ønsker å ta over utleievirksomheten skal Realistforeningen kalle inn til et møte hvor kjellerforeningene Samfunnsvitenskaplig fakultetsforening, Medicinerforeningen, Kjellerutvalget, Filologisk forening/Uglebo og Cybernetisk selskab skal bli enige om en omfordeling av utstyret. Om kjellerforeningene ikke blir enige, tilfaller utstyret Kulturstyret ved Velferdstinget i Oslo og Akershus, som omfordeler utstyret blant kjellerforeningene etter eget forgodtbefinnende. Utstyrets verdi regnes etter prinsippet lineærårlig avskrivning. Utstyret kan ikke regnes mot eventuelle utestående fordringer foreningene har hos RF-Regi.
 
-§ 7 TAP AV UTSTYR
+§ 8 TAP AV UTSTYR
 -----------------
 
 RF-Regi plikter å informere kjellerforeningene om eventuelle tap av hele eller deler av utstyret kjøpt inn med Kulturstyrets midler innen rimelig tid. Eventuelle tap kan kreves dokumentert av en eller flere av kjellerforeningene.
@@ -55,7 +62,7 @@ RF-Regi plikter å informere kjellerforeningene om eventuelle tap av hele eller 
 STYRET OG UTVALG
 ======================
 
-§ 8 STYRET
+§ 9 STYRET
 ----------
 
 a)  Styret i RF-Regi består av: regiformann, forretningsfører, utleieansvarlig, DJ-sjef og Realistforeningens formann.
@@ -77,13 +84,13 @@ a)  Styret i RF-Regi består av: regiformann, forretningsfører, utleieansvarlig
 #)  Styret kan tilknytte seg det antall funksjonærer styret finner nødvendig.
 
 
-§ 9 ERFARINGSOVERFØRING
------------------------
+§ 10 ERFARINGSOVERFØRING
+------------------------
 
 Alle tillitsvalgte valgt av Generalforsamlingen og innehavere av verv oppnevnt av styret ihht. § 8 a, har ansvar for å lage og oppdatere erfaringsprotokoller for opplæring av etterfølgende innehavere av vervet og funksjonærer tilknyttet styret. Alle personer omfattet av første punktum har ansvar for at påtroppende vervinnehaver får den nødvendige opplæring for å inneha sitt verv.
 
 
-§ 10 ØKONOMI
+§ 11 ØKONOMI
 ------------
 
 a)  Forretningsfører har ansvaret for RF-Regis regnskap og for å lære opp påtroppende vervinnehaver i økonomistyring.
@@ -93,7 +100,7 @@ a)  Forretningsfører har ansvaret for RF-Regis regnskap og for å lære opp på
 #)  Realistforeningen overtar driften av RF-Regi inntil nytt styre er valgt dersom det sittende ikke kan funksjonere. Ingen utbetalinger, med unntak av utestående fordringer, skal skje før en generalforsamling er avholdt.
 
 
-§ 11 DESISJONSUTVALGET
+§ 12 DESISJONSUTVALGET
 ----------------------
 
 a)	RF-Regi er en undergruppe av Realistforeningen, og derfor underlagt dets Desisjonsutvalg.
@@ -101,7 +108,7 @@ a)	RF-Regi er en undergruppe av Realistforeningen, og derfor underlagt dets Desi
 #)	Desisjonsutvalget har den endelige avgjørelsen i tvilsspørsmål om tolkning av lovene. Utvalget kan også fatte vedtak og gi regler i situasjoner hvor lovene måtte vise seg å være utilstrekkelige. Ethvert medlem av RF-Regi har rett til å innanke for Desisjonsutvalget vedtak hvor det kan være tvil om lovligheten.
 
 
-§ 12 REVISJONSUTVALGET
+§ 13 REVISJONSUTVALGET
 ----------------------
 
 a) RF-Regi er en undergruppe av Realistforeningen, og derfor underlagt dets Revisjonsutvalg.
@@ -114,9 +121,9 @@ a) RF-Regi er en undergruppe av Realistforeningen, og derfor underlagt dets Revi
 GENERELLE BESTEMMELSER
 ======================
 
-§ 13 GENERALFORSAMLING
+§ 14 GENERALFORSAMLING
 ----------------------
-a)	Generalforsamlingen er foreningens høyeste myndighet i spørsmål som ikke kommer inn under § 11 b. Alle medlemmer av RF-Regi har tale- og forslagsrett.
+a)	Generalforsamlingen er foreningens høyeste myndighet i spørsmål som ikke kommer inn under § 13 b. Alle medlemmer av RF-Regi har tale- og forslagsrett.
 
 	Alle medlemmer av RF-Regi som var innmeldt før innkallingen ble offentliggjort har stemmerett på generalforsamlingen.
 
@@ -152,28 +159,28 @@ a)	Generalforsamlingen er foreningens høyeste myndighet i spørsmål som ikke k
 
 		#. Valg av tillitsvalgte:
 
-			a) Regiformann (§ 8 b)
+			a) Regiformann (§ 9 b)
 			
-			#) Foretningsfører (§ 8 c)
+			#) Foretningsfører (§ 9 c)
 			
-			#) Utleieansvarlig  (§ 8 d)
+			#) Utleieansvarlig  (§ 9 d)
 			
-			#) DJ-sjef (§ 8 e)
+			#) DJ-sjef (§ 9 e)
 
 
-§ 14 MISTILLIT
+§ 15 MISTILLIT
 --------------
 
-Foreningens medlemmer kan fremme mistillitsforslag mot tillitsvalgte som er valgt ihht. §  3 k punkt 5. Slike forslag kan bare behandles av en generalforsamling, og må være fremmet 48 timer før generalforsamlingen. Mistillitsforslag vedtas med 2/3 flertall. Dersom mistillitsforslaget mot et medlem av styret blir vedtatt, kan generalforsamlingen 2/3 flertall vedta vedta å holde nyvalg på samtlige medlemmer av styret for resten av hvert medlems funksjonstid.
+Foreningens medlemmer kan fremme mistillitsforslag mot tillitsvalgte som er valgt ihht. §  14 k punkt 5. Slike forslag kan bare behandles av en generalforsamling, og må være fremmet 48 timer før generalforsamlingen. Mistillitsforslag vedtas med 2/3 flertall. Dersom mistillitsforslaget mot et medlem av styret blir vedtatt, kan generalforsamlingen 2/3 flertall vedta vedta å holde nyvalg på samtlige medlemmer av styret for resten av hvert medlems funksjonstid.
 
 
-§ 15 LOVENDRINGER
+§ 16 LOVENDRINGER
 -----------------
 
 Forslag til lovendring skal bare behandles på ordinær generalforsamling, og må få 2/3 flertall blant de tilstedeværende stemmeberettigede for å vedtas.
 
 
-§ 16 LOVERS GYLDIGHET
+§ 17 LOVERS GYLDIGHET
 ---------------------
 
 Endringer i disse lover trer normalt i kraft når generalforsamlingen har ferdigbehandlet saken om lovendringer. Generalforsamlingen kan ved 2/3 kvalifisert flertall vedta at lovendringen skal tre i kraft på et senere tidspunkt.
