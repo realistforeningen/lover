@@ -580,7 +580,7 @@ valgt iht. § 23 b) og 24 m) punkt 6, unntatt Desisjonsutvalget. Slike
 forslag kan bare behandles av en generalforsamling, og må være fremmet
 48 timer før generalforsamlingen. Mistillitsforslag vedtas med 2/3
 flertall. Dersom mistillitsforslaget mot et medlem av et organ blir
-vedtatt, kan generalforsamlingen vedta å holde nyvalg på samtlige
+vedtatt, kan generalforsamlingen ved 2/3 flertall vedta å holde nyvalg på samtlige
 medlemmer av organet for resten av hvert medlems funksjonstid.
 
 § 26 DOKUMENTER
