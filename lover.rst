@@ -368,8 +368,9 @@ a) Revisjonsutvalget har tre medlemmer: Det velges ett medlem på den
       av generalforsamlingen.
 
 #) Revisjonsutvalgets oppgave er å revidere Realistforeningens
-   regnskaper. Minst to av revisjonsutvalgets medlemmer må delta i
-   revideringen av et regnskap.
+   regnskaper og gjennomføre jevnlige kontroller for å sikre at 
+   regnskapet blir ført. Minst to av revisjonsutvalgets medlemmer 
+   må delta i revideringen av et regnskap.
 
 #) På Generalforsamlingen skal Revisjonsutvalget legge fram
    revisjonsberetningen, som kan være skrevet av Revisjonsutvalget
