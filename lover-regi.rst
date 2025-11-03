@@ -87,7 +87,7 @@ a)  Styret i RF-Regi består av: regiformann, forretningsfører, utleieansvarlig
 § 10 ERFARINGSOVERFØRING
 ------------------------
 
-Alle tillitsvalgte valgt av Generalforsamlingen og innehavere av verv oppnevnt av styret ihht. § 8 a, har ansvar for å lage og oppdatere erfaringsprotokoller for opplæring av etterfølgende innehavere av vervet og funksjonærer tilknyttet styret. Alle personer omfattet av første punktum har ansvar for at påtroppende vervinnehaver får den nødvendige opplæring for å inneha sitt verv.
+Alle tillitsvalgte valgt av Generalforsamlingen og innehavere av verv oppnevnt av styret ihht. § 9 a, har ansvar for å lage og oppdatere erfaringsprotokoller for opplæring av etterfølgende innehavere av vervet og funksjonærer tilknyttet styret. Alle personer omfattet av første punktum har ansvar for at påtroppende vervinnehaver får den nødvendige opplæring for å inneha sitt verv.
 
 
 § 11 ØKONOMI
