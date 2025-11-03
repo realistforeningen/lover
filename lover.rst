@@ -28,7 +28,7 @@ drøfte spørsmål av almenn og faglig art, å øke kameratskapet mellom
 studentene og styrke miljøet ved fakultetet ved selskapelige samvær,
 ekskursjoner og andre tiltak.
 
-§ 3 Språk
+§ 3 SPRÅK
 ---------
 
 Realistforeningen sitt offisielle språk er norsk.
