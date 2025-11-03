@@ -262,16 +262,17 @@ a) Kjellerstyret ledes av kjellermester, og har følgende andre
 § 16 ØKONOMIUTVALGET
 --------------------
 
-a) Økonomiutvalget har seks medlemmer. Økonomiutvalgets leder velges
+a) Økonomiutvalget har seks ordinært medlemmer. Økonomiutvalgets leder velges
    hvert høstsemester, og funksjonstiden er to semestre. Det velges to
    ordinære medlemmer på den ordinære generalforsamling i hvert
    semester, og funksjonstiden er to semestre. I tillegg sitter
    forretningsfører for RF-Regi i Økonomiutvalget. Økonomiansvarlig
    for Biørnegildet regnes som medlem i Økonomiutvalget i de
-   semestrene hvor Biørnegildet har økonomisk aktivitet. Utover de
-   øvrige faste medlemmer og Biørnegildets økonomiansvarlig, kan
-   Generalforsamlingen stemme inn ytterlige to medlemmer for perioder
-   på ett semester.
+   semestrene hvor Biørnegildet har økonomisk aktivitet. Leder av 
+   økonomiutvalget regnes som medlem av Økonomiutvalget frem til regnskapsåret 
+   fra deres periode er avsluttet. Utover de øvrige faste medlemmer og 
+   Biørnegildets økonomiansvarlig, kan Generalforsamlingen stemme inn 
+   ytterlige to medlemmer for perioder på ett semester.
 
 #) Økonomiutvalgets medlemmer kan ikke samtidig:
 
