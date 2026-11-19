@@ -1,28 +1,20 @@
 .PHONY: all clean distclean
 
-UNAME_S := $(shell uname -s)
-ifeq ($(UNAME_S),Linux)
-	rst_to_html = rst2html
-	rst_to_latex = rst2latex
-endif
-ifeq ($(UNAME_S),Darwin)
-	rst_to_html = rst2html.py
-	rst_to_latex = rst2latex.py
-endif
+export PYTHONPATH := $(CURDIR)/docutils_local$(if $(PYTHONPATH),:$(PYTHONPATH))
 
 all: lover.html lover-regi.html lover.pdf lover-regi.pdf
 
 lover.html: lover.rst lover.css
-	$(rst_to_html) --no-section-numbering --stylesheet=lover.css $< | perl -pe "s/Contents/Innhold/" > $@
+	rst2html --language=no --no-section-numbering --stylesheet=lover.css $< > $@
 
 lover-regi.html: lover-regi.rst lover.css
-	$(rst_to_html) --no-section-numbering --stylesheet=lover.css $< | perl -pe "s/Contents/Innhold/" > $@
+	rst2html --language=no --no-section-numbering --stylesheet=lover.css $< > $@
 
 lover.tex: lover.rst
-	$(rst_to_latex) --language=no --documentclass=scrartcl --documentoptions=a4paper,11pt --no-section-numbering $< > $@
+	rst2latex --language=no --documentclass=scrartcl --documentoptions=a4paper,11pt --no-section-numbering $< > $@
 
 lover-regi.tex: lover-regi.rst
-	$(rst_to_latex) --language=no --documentclass=scrartcl --documentoptions=a4paper,11pt --no-section-numbering $< > $@
+	rst2latex --language=no --documentclass=scrartcl --documentoptions=a4paper,11pt --no-section-numbering $< > $@
 	
 lover.pdf: lover.tex
 	pdflatex $<
