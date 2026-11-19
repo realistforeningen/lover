@@ -15,12 +15,23 @@ Merk: Husk å oppdatere vedtatt-datoen til datoen for generalforsamlingen.
 Installering
 ============
 
-Se ``requirements.txt``. ``pdflatex`` fås gjennom en LaTeX-distribusjon, f.eks.
-TeXLive. 
+pdflatex må være installere. Dette fåes gjennom en LaTeX-distribusjon, f.eks TeXLive
 
-Avhengig av operativsystem kan ``rst2latex`` og ``rst2html`` ha andre navn.
-Eksempler kan være ``rst2html.py`` eller ``rst2latex2``. 
-Bruk ``alias rst2html="rst2html.py"`` osv. eller endre ``Makefile``.
+opprett et venv f.eks
+'''
+pyton3 -m venv venv
+'''
+
+aktiver det med 
+'''
+source venv/bin/activate
+'''
+
+installer requirements
+'''
+pip install -r requirements.txt
+'''
+
 
 Kompilere
 =========
